@@ -1,0 +1,5082 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Spor"
+    },
+    {
+      "id": 2,
+      "name": "Tarih"
+    },
+    {
+      "id": 3,
+      "name": "Bilim"
+    },
+    {
+      "id": 4,
+      "name": "Sanat"
+    },
+    {
+      "id": 5,
+      "name": "Genel Kültür"
+    },
+    {
+      "id": 6,
+      "name": "Coğrafya"
+    },
+    {
+      "id": 7,
+      "name": "Sinema"
+    },
+    {
+      "id": 8,
+      "name": "Din Kültürü"
+    },
+    {
+      "id": 9,
+      "name": "Karışık"
+    }
+  ],
+  "questions": [
+    {
+      "categoryId": 1,
+      "question": "1936 Berlin Olimpiyatları, Nazi Almanyası'nın gövde gösterisi yapmayı planladığı bir organizasyondu. Ancak Amerikalı bir atlet, 100 metre, 200 metre, uzun atlama ve 4x100 bayrak yarışında 4 altın madalya kazanarak 'üstün ırk' teorilerini yerle bir etmiş ve olimpiyat tarihine geçmiştir. Bahsi geçen bu efsane atlet kimdir?",
+      "options": [
+        "Carl Lewis",
+        "Jesse Owens",
+        "Usain Bolt",
+        "Jim Thorpe",
+        "Bob Beamon"
+      ],
+      "correctAnswer": "Jesse Owens"
+    },
+    {
+      "categoryId": 1,
+      "question": "Basketbol tarihinin en büyük oyuncularından biri kabul edilen Michael Jordan, 1993 yılında babasının vefatından sonra ani bir kararla basketbolu bıraktığını açıklamıştır. Bu süreçte çocukluk hayali olduğunu belirterek profesyonel olarak hangi spor dalında şansını denemiştir?",
+      "options": [
+        "Amerikan Futbolu",
+        "Golf",
+        "Beyzbol",
+        "Tenis",
+        "Buz Hokeyi"
+      ],
+      "correctAnswer": "Beyzbol"
+    },
+    {
+      "categoryId": 1,
+      "question": "Türk spor tarihinin en önemli başarılarından biri olan 1988 Seul Olimpiyatları'nda, Naim Süleymanoğlu halter branşında kendi ağırlığının üç katından 10 kilo fazlasını (190 kg) kaldırarak dünya rekoru kırmıştır. Naim Süleymanoğlu'nun bu başarıyı elde ettiği sıklet aşağıdakilerden hangisidir?",
+      "options": [
+        "52 kg",
+        "56 kg",
+        "60 kg",
+        "64 kg",
+        "67.5 kg"
+      ],
+      "correctAnswer": "60 kg"
+    },
+    {
+      "categoryId": 1,
+      "question": "Futbol tarihinde 'Bern Mucizesi' olarak bilinen olay; 1954 Dünya Kupası finalinde, o dönemin 'Yenilmez Armada'sı olarak kabul edilen ve 32 maçtır kaybetmeyen Macaristan'ın, Batı Almanya'ya 3-2 yenilmesidir. Macaristan'ın o dönemdeki dünyaca ünlü yıldızı ve kaptanı kimdir?",
+      "options": [
+        "Ferenc Puskas",
+        "Sandor Kocsis",
+        "Gerd Müller",
+        "Lev Yaşin",
+        "Eusebio"
+      ],
+      "correctAnswer": "Ferenc Puskas"
+    },
+    {
+      "categoryId": 1,
+      "question": "Teniste bir oyuncunun aynı takvim yılı içerisinde dört büyük Grand Slam turnuvasını (Avustralya, Fransa, Wimbledon, Amerika) ve Olimpiyat altın madalyasını kazanmasına 'Golden Slam' denir. Tenis tarihinde bunu başaran tek isim (kadın-erkek karışık) aşağıdakilerden hangisidir?",
+      "options": [
+        "Roger Federer",
+        "Serena Williams",
+        "Steffi Graf",
+        "Rafael Nadal",
+        "Martina Navratilova"
+      ],
+      "correctAnswer": "Steffi Graf"
+    },
+    {
+      "categoryId": 1,
+      "question": "1992 Barselona Olimpiyat Oyunları, ilk kez NBA oyuncularının olimpiyatlara katılmasına izin verilen turnuvadır. Michael Jordan, Magic Johnson ve Larry Bird gibi isimlerin yer aldığı ve tüm maçlarını farklı skorlarla kazanan bu efsane takıma ne ad verilmiştir?",
+      "options": [
+        "All-Stars",
+        "The Avengers",
+        "Dream Team",
+        "Golden Squad",
+        "Fantastic Five"
+      ],
+      "correctAnswer": "Dream Team"
+    },
+    {
+      "categoryId": 1,
+      "question": "Formula 1 tarihinin en trajik olaylarından biri 1994 San Marino Grand Prix'sinde yaşanmıştır. Yarışın başında 'Tamburello' virajında duvarlara çarparak hayatını kaybeden ve arkasında 3 dünya şampiyonluğu bırakan Brezilyalı efsane pilot kimdir?",
+      "options": [
+        "Alain Prost",
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Niki Lauda",
+        "Nelson Piquet"
+      ],
+      "correctAnswer": "Ayrton Senna"
+    },
+    {
+      "categoryId": 1,
+      "question": "Atletizmde 'Dekatlon' branşı, iki güne yayılan ve sporcuların çok yönlülüğünü test eden 10 farklı yarıştan oluşur. Aşağıdakilerden hangisi dekatlon yarışmaları kapsamında yer alan branşlardan biri değildir?",
+      "options": [
+        "Sırıkla Atlama",
+        "Disk Atma",
+        "1500 Metre Koşu",
+        "Üç Adım Atlama",
+        "Gülle Atma"
+      ],
+      "correctAnswer": "Üç Adım Atlama"
+    },
+    {
+      "categoryId": 1,
+      "question": "Boks dünyasında 1974 yılında Zaire'de gerçekleşen ve 'Rumble in the Jungle' (Ormandaki Kapışma) olarak adlandırılan tarihi maçta, Muhammed Ali o güne kadar yenilmez görülen hangi boksörü nakavt ederek kemerini geri almıştır?",
+      "options": [
+        "Joe Frazier",
+        "Mike Tyson",
+        "George Foreman",
+        "Sonny Liston",
+        "Floyd Patterson"
+      ],
+      "correctAnswer": "George Foreman"
+    },
+    {
+      "categoryId": 1,
+      "question": "Basketbol kurallarına göre, hücum eden takım kendi sahasından çıktıktan sonra topu tekrar kendi sahasına gönderirse 'Geri Saha İhlali' olur. Bir takımın topu kendi sahasından rakip sahaya geçirmek için toplamda kaç saniyesi vardır?",
+      "options": [
+        "5 Saniye",
+        "8 Saniye",
+        "10 Saniye",
+        "12 Saniye",
+        "24 Saniye"
+      ],
+      "correctAnswer": "8 Saniye"
+    },
+    {
+      "categoryId": 1,
+      "question": "2004 Avrupa Futbol Şampiyonası (Euro 2004), futbol tarihinin en büyük sürprizlerinden birine sahne olmuştur. Turnuva başında şans tanınmayan ve katı savunma futboluyla eleştirilen hangi ülke, finalde ev sahibi Portekiz'i yenerek şampiyon olmuştur?",
+      "options": [
+        "Çek Cumhuriyeti",
+        "Yunanistan",
+        "Danimarka",
+        "Hırvatistan",
+        "Rusya"
+      ],
+      "correctAnswer": "Yunanistan"
+    },
+    {
+      "categoryId": 1,
+      "question": "Bisiklet sporunun en prestijli yarışı olan Tour de France'ta (Fransa Bisiklet Turu), en iyi tırmanışçıya verilen ve üzerinde kırmızı puanlar bulunan formaya ne ad verilir?",
+      "options": [
+        "Maillot Jaune",
+        "Maillot Vert",
+        "Maillot à Pois",
+        "Maillot Blanc",
+        "Maillot Rouge"
+      ],
+      "correctAnswer": "Maillot à Pois"
+    },
+    {
+      "categoryId": 1,
+      "question": "A Milli Basketbol Takımımız, '12 Dev Adam' unvanını ilk kez hangi turnuvada gösterdiği büyük başarı ve final oynama başarısı sonrası halk tarafından benimsenen bir isim olarak almıştır?",
+      "options": [
+        "2010 Dünya Şampiyonası",
+        "2001 Avrupa Şampiyonası",
+        "1999 Avrupa Şampiyonası",
+        "2002 Dünya Şampiyonası",
+        "2005 Avrupa Şampiyonası"
+      ],
+      "correctAnswer": "2001 Avrupa Şampiyonası"
+    },
+    {
+      "categoryId": 1,
+      "question": "Modern futbolda 'Ofsayt' kuralına göre; top pas verildiği anda hücum oyuncusu ile rakip kale çizgisi arasında kaleci dahil en az kaç rakip oyuncu bulunmalıdır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "categoryId": 1,
+      "question": "Efsanevi futbolcu Pele, kariyeri boyunca 1000 gol barajını aşan nadir oyunculardan biridir. Pele, 1000. golünü (O Milésimo) 1969 yılında hangi takımın formasıyla rakip filelere göndermiştir?",
+      "options": [
+        "New York Cosmos",
+        "Brezilya Milli Takımı",
+        "Santos",
+        "Flamengo",
+        "Sao Paulo"
+      ],
+      "correctAnswer": "Santos"
+    },
+    {
+      "categoryId": 1,
+      "question": "Olimpiyat Oyunları'nın simgesi olan iç içe geçmiş beş halka; mavi, sarı, siyah, yeşil ve kırmızı renklerden oluşur. Bu halkaların tasarımcısı ve modern olimpiyatların kurucusu kimdir?",
+      "options": [
+        "Juan Antonio Samaranch",
+        "Thomas Bach",
+        "Pierre de Coubertin",
+        "Demetrius Vikelas",
+        "Avery Brundage"
+      ],
+      "correctAnswer": "Pierre de Coubertin"
+    },
+    {
+      "categoryId": 1,
+      "question": "Voleybolda takımların set kazanabilmesi için en az 25 sayıya ulaşması ve rakibine en az 2 sayı fark atması gerekir. Ancak maçın kaderini belirleyen 'Netice Seti' (5. Set) kaç sayı üzerinden oynanır?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "categoryId": 1,
+      "question": "Maraton koşusunun kökeni, Antik Yunan'da bir askerin Maraton Ovası'ndan Atina'ya kadar zafer haberini götürmek için koşmasına dayanır. Bu mesafeyi koştuktan sonra hayatını kaybeden efsanevi habercinin adı nedir?",
+      "options": [
+        "Leonidas",
+        "Philippides",
+        "Achilles",
+        "Perikles",
+        "Spartacus"
+      ],
+      "correctAnswer": "Philippides"
+    },
+    {
+      "categoryId": 1,
+      "question": "Dünyanın en zorlu dayanıklılık yarışlarından biri olan 'Ironman' (Demir Adam) triatlonu sırasıyla hangi üç branşın peş peşe yapılmasıyla tamamlanır?",
+      "options": [
+        "Yüzme-Koşu-Bisiklet",
+        "Bisiklet-Yüzme-Koşu",
+        "Yüzme-Bisiklet-Koşu",
+        "Koşu-Yüzme-Bisiklet",
+        "Yüzme-Kano-Koşu"
+      ],
+      "correctAnswer": "Yüzme-Bisiklet-Koşu"
+    },
+    {
+      "categoryId": 1,
+      "question": "Satrançta bir oyuncu, rakibinin şahını hiçbir şekilde kurtulamayacağı bir tehdit altına aldığında oyun biter. Ancak oyuncunun şahı tehdit altında olmadığı halde yapacak hiçbir geçerli hamlesinin kalmaması durumuna ne denir?",
+      "options": [
+        "Şah-Mat",
+        "Rok",
+        "Pat",
+        "Gambit",
+        "Çatal"
+      ],
+      "correctAnswer": "Pat"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi kronolojik olarak en eskidir?",
+      "options": [
+        "İstanbul'un Fethi",
+        "Malazgirt Savaşı",
+        "Ankara Savaşı",
+        "Kösedağ Savaşı",
+        "Niğbolu Savaşı"
+      ],
+      "correctAnswer": "Malazgirt Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Osmanlı Devleti'nin kuruluşundan yükselme dönemine geçiş sürecinde aşağıdaki padişahlardan hangisi yer almaz?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmet"
+      ],
+      "correctAnswer": "Fatih Sultan Mehmet"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki savaşlardan hangisi Osmanlı Devleti'nin Anadolu Türk siyasi birliğini sağlama sürecinde yapılmıştır?",
+      "options": [
+        "Kosova Savaşı",
+        "Varna Savaşı",
+        "Çaldıran Savaşı",
+        "Ridaniye Savaşı",
+        "Mohaç Savaşı"
+      ],
+      "correctAnswer": "Çaldıran Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "I. Dünya Savaşı'nın genel nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Milliyetçilik akımı",
+        "Silahlanma yarışı",
+        "Sömürgecilik rekabeti",
+        "Sanayi İnkılabı",
+        "Fransız İhtilali"
+      ],
+      "correctAnswer": "Fransız İhtilali"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin gerileme dönemine girdiğinin göstergelerinden biridir?",
+      "options": [
+        "İstanbul'un Fethi",
+        "Kanuni Dönemi",
+        "Karlofça Antlaşması",
+        "Mohaç Meydan Muharebesi",
+        "Ridaniye Savaşı"
+      ],
+      "correctAnswer": "Karlofça Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi 20. yüzyılda gerçekleşmiştir?",
+      "options": [
+        "Coğrafi Keşifler",
+        "Sanayi İnkılabı",
+        "Fransız İhtilali",
+        "I. Dünya Savaşı",
+        "Reform Hareketleri"
+      ],
+      "correctAnswer": "I. Dünya Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki antlaşmalardan hangisi Osmanlı Devleti'nin ilk büyük toprak kaybını yaşadığı antlaşmadır?",
+      "options": [
+        "Pasarofça",
+        "Karlofça",
+        "Küçük Kaynarca",
+        "Yaş",
+        "Belgrad"
+      ],
+      "correctAnswer": "Karlofça"
+    },
+    {
+      "categoryId": 2,
+      "question": "Osmanlı Devleti'nin Avrupa'da ilerleyişinin duraklamasında aşağıdaki savaşlardan hangisi etkili olmuştur?",
+      "options": [
+        "Mohaç",
+        "Varna",
+        "II. Viyana Kuşatması",
+        "Kosova",
+        "Niğbolu"
+      ],
+      "correctAnswer": "II. Viyana Kuşatması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde merkezi otoritenin zayıfladığını gösterir?",
+      "options": [
+        "Tımar sisteminin güçlenmesi",
+        "Ayanların güçlenmesi",
+        "Yeniçeri Ocağı'nın disiplinli olması",
+        "Vergi sisteminin düzenli olması",
+        "Eğitim sisteminin gelişmesi"
+      ],
+      "correctAnswer": "Ayanların güçlenmesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Kurtuluş Savaşı sürecinde aşağıdaki gelişmelerden hangisi diğerlerinden önce gerçekleşmiştir?",
+      "options": [
+        "TBMM'nin açılması",
+        "Sakarya Savaşı",
+        "Büyük Taarruz",
+        "Mudanya Ateşkesi",
+        "Lozan Antlaşması"
+      ],
+      "correctAnswer": "TBMM'nin açılması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde modernleşme hareketleri kapsamında değerlendirilir?",
+      "options": [
+        "Tımar sistemi",
+        "Devşirme sistemi",
+        "Tanzimat Fermanı",
+        "Kapıkulu sistemi",
+        "Lonca teşkilatı"
+      ],
+      "correctAnswer": "Tanzimat Fermanı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha sonra gerçekleşmiştir?",
+      "options": [
+        "Malazgirt Savaşı",
+        "İstanbul'un Fethi",
+        "Ankara Savaşı",
+        "Mohaç Savaşı",
+        "Çaldıran Savaşı"
+      ],
+      "correctAnswer": "Mohaç Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Osmanlı Devleti'nin denizlerde üstünlük sağlamasında aşağıdaki gelişmelerden hangisi etkili olmuştur?",
+      "options": [
+        "Preveze Deniz Zaferi",
+        "Karlofça Antlaşması",
+        "Pasarofça Antlaşması",
+        "Küçük Kaynarca Antlaşması",
+        "Balta Limanı Antlaşması"
+      ],
+      "correctAnswer": "Preveze Deniz Zaferi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi ekonomik alanda Osmanlı Devleti'nin dışa bağımlılığını artırmıştır?",
+      "options": [
+        "Tımar sistemi",
+        "Lonca sistemi",
+        "Balta Limanı Antlaşması",
+        "Devşirme sistemi",
+        "Kapıkulu sistemi"
+      ],
+      "correctAnswer": "Balta Limanı Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Osmanlı Devleti'nin yıkılış sürecinde yer alır?",
+      "options": [
+        "Karlofça Antlaşması",
+        "Tanzimat Fermanı",
+        "Mondros Ateşkesi",
+        "İstanbul'un Fethi",
+        "Mohaç Savaşı"
+      ],
+      "correctAnswer": "Mondros Ateşkesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi laikleşme sürecine katkı sağlamıştır?",
+      "options": [
+        "Medreselerin yaygınlaşması",
+        "Şeriye mahkemelerinin artırılması",
+        "Karma mahkemelerin kurulması",
+        "Tarikatların güçlenmesi",
+        "Şeyhülislamın yetkilerinin artırılması"
+      ],
+      "correctAnswer": "Karma mahkemelerin kurulması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi neden-sonuç ilişkisi bakımından diğerlerinden farklıdır?",
+      "options": [
+        "Sanayi İnkılabı → Sömürgecilik",
+        "Fransız İhtilali → Milliyetçilik",
+        "Coğrafi Keşifler → Ticaret yollarının değişmesi",
+        "Tanzimat → Osmanlı'nın güçlenmesi",
+        "Reform → Mezhep birliğinin bozulması"
+      ],
+      "correctAnswer": "Tanzimat → Osmanlı'nın güçlenmesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin askeri alanda geri kaldığını gösterir?",
+      "options": [
+        "Yeniçeri Ocağı'nın kurulması",
+        "Tımar sisteminin uygulanması",
+        "Nizam-ı Cedid'in kurulması",
+        "Kapıkulu sisteminin gelişmesi",
+        "Devşirme sisteminin uygulanması"
+      ],
+      "correctAnswer": "Nizam-ı Cedid'in kurulması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha erken gerçekleşmiştir?",
+      "options": [
+        "Fransız İhtilali",
+        "Sanayi İnkılabı",
+        "Reform",
+        "Rönesans",
+        "Coğrafi Keşifler"
+      ],
+      "correctAnswer": "Rönesans"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin Avrupa karşısında üstünlüğünü kaybettiğinin göstergesidir?",
+      "options": [
+        "İstanbul'un Fethi",
+        "Mohaç Zaferi",
+        "Karlofça Antlaşması",
+        "Preveze Zaferi",
+        "Varna Savaşı"
+      ],
+      "correctAnswer": "Karlofça Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Kurtuluş Savaşı'nın diplomatik başarısıdır?",
+      "options": [
+        "Sakarya Savaşı",
+        "Büyük Taarruz",
+        "Lozan Antlaşması",
+        "İnönü Savaşları",
+        "Kütahya-Eskişehir Savaşları"
+      ],
+      "correctAnswer": "Lozan Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde merkezi otoritenin güçlendirilmesine yöneliktir?",
+      "options": [
+        "Ayanların güçlenmesi",
+        "İltizam sisteminin yaygınlaşması",
+        "Yeniçeri isyanları",
+        "II. Mahmut reformları",
+        "Tımar sisteminin bozulması"
+      ],
+      "correctAnswer": "II. Mahmut reformları"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Osmanlı Devleti'nin kuruluş döneminde gerçekleşmiştir?",
+      "options": [
+        "Kösedağ Savaşı",
+        "Niğbolu Savaşı",
+        "Ankara Savaşı",
+        "İstanbul'un Fethi",
+        "Mohaç Savaşı"
+      ],
+      "correctAnswer": "Niğbolu Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin ekonomik yapısını olumsuz etkilemiştir?",
+      "options": [
+        "Tımar sistemi",
+        "Lonca sistemi",
+        "Kapitülasyonlar",
+        "Devşirme sistemi",
+        "Kapıkulu sistemi"
+      ],
+      "correctAnswer": "Kapitülasyonlar"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha sonra gerçekleşmiştir?",
+      "options": [
+        "Mondros Ateşkesi",
+        "TBMM'nin açılması",
+        "Lozan Antlaşması",
+        "Mudanya Ateşkesi",
+        "Sakarya Savaşı"
+      ],
+      "correctAnswer": "Lozan Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi kronolojik olarak en yenidir?",
+      "options": [
+        "Karlofça Antlaşması",
+        "Küçük Kaynarca Antlaşması",
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "I. Meşrutiyet"
+      ],
+      "correctAnswer": "I. Meşrutiyet"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Osmanlı Devleti'nin duraklama döneminde gerçekleşmiştir?",
+      "options": [
+        "İstanbul'un Fethi",
+        "Mohaç Savaşı",
+        "II. Viyana Kuşatması",
+        "Ridaniye Savaşı",
+        "Çaldıran Savaşı"
+      ],
+      "correctAnswer": "II. Viyana Kuşatması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Osmanlı Devleti'nde ilk kez Avrupa tarzı ıslahatlar hangi padişah döneminde başlamıştır?",
+      "options": [
+        "IV. Murat",
+        "II. Osman",
+        "III. Selim",
+        "I. Mahmut",
+        "III. Ahmed"
+      ],
+      "correctAnswer": "III. Ahmed"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde askeri alanda modernleşmenin bir göstergesidir?",
+      "options": [
+        "Tımar sistemi",
+        "Kapıkulu sistemi",
+        "Nizam-ı Cedid ordusu",
+        "Lonca teşkilatı",
+        "Devşirme sistemi"
+      ],
+      "correctAnswer": "Nizam-ı Cedid ordusu"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha önce gerçekleşmiştir?",
+      "options": [
+        "Kösedağ Savaşı",
+        "Malazgirt Savaşı",
+        "İstanbul'un Fethi",
+        "Ankara Savaşı",
+        "Niğbolu Savaşı"
+      ],
+      "correctAnswer": "Malazgirt Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin siyasi gücünü zayıflatan faktörlerden biridir?",
+      "options": [
+        "Merkezi otoritenin güçlenmesi",
+        "Ayanların güçlenmesi",
+        "Ordunun modernleşmesi",
+        "Vergi sisteminin düzenlenmesi",
+        "Eğitim reformları"
+      ],
+      "correctAnswer": "Ayanların güçlenmesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi 19. yüzyılda gerçekleşmiştir?",
+      "options": [
+        "Karlofça Antlaşması",
+        "Pasarofça Antlaşması",
+        "Tanzimat Fermanı",
+        "Küçük Kaynarca Antlaşması",
+        "Belgrad Antlaşması"
+      ],
+      "correctAnswer": "Tanzimat Fermanı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin Avrupa'nın gerisinde kaldığını kabul ettiğinin göstergesidir?",
+      "options": [
+        "İstanbul'un Fethi",
+        "Mohaç Savaşı",
+        "Lale Devri ıslahatları",
+        "Preveze Zaferi",
+        "Varna Savaşı"
+      ],
+      "correctAnswer": "Lale Devri ıslahatları"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Kurtuluş Savaşı'nın askeri aşamasına aittir?",
+      "options": [
+        "Lozan Antlaşması",
+        "Mudanya Ateşkesi",
+        "Sakarya Meydan Muharebesi",
+        "Amasya Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctAnswer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin ekonomik bağımsızlığını zedelemiştir?",
+      "options": [
+        "Tımar sistemi",
+        "Lonca teşkilatı",
+        "Kapitülasyonlar",
+        "Devşirme sistemi",
+        "Kapıkulu sistemi"
+      ],
+      "correctAnswer": "Kapitülasyonlar"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha sonra gerçekleşmiştir?",
+      "options": [
+        "II. Meşrutiyet",
+        "I. Meşrutiyet",
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Sened-i İttifak"
+      ],
+      "correctAnswer": "II. Meşrutiyet"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde hukuk alanında yeniliklerin yapıldığını gösterir?",
+      "options": [
+        "Medreselerin yaygınlaşması",
+        "Şeriye mahkemeleri",
+        "Kanun-i Esasi'nin ilanı",
+        "Tımar sistemi",
+        "Lonca teşkilatı"
+      ],
+      "correctAnswer": "Kanun-i Esasi'nin ilanı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Osmanlı Devleti'nin yükselme döneminde gerçekleşmiştir?",
+      "options": [
+        "Karlofça Antlaşması",
+        "Mohaç Savaşı",
+        "II. Viyana Kuşatması",
+        "Küçük Kaynarca Antlaşması",
+        "Pasarofça Antlaşması"
+      ],
+      "correctAnswer": "Mohaç Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde eğitim alanında modernleşmeye örnektir?",
+      "options": [
+        "Medreseler",
+        "Enderun",
+        "Rüştiyelerin açılması",
+        "Lonca eğitimi",
+        "Ahilik"
+      ],
+      "correctAnswer": "Rüştiyelerin açılması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi Osmanlı Devleti'nin yıkılış sürecinde gerçekleşmiştir?",
+      "options": [
+        "Mohaç Savaşı",
+        "İstanbul'un Fethi",
+        "Mondros Ateşkesi",
+        "Preveze Zaferi",
+        "Niğbolu Savaşı"
+      ],
+      "correctAnswer": "Mondros Ateşkesi"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nde merkezi otoritenin güçlendirilmesine yöneliktir?",
+      "options": [
+        "Ayanların güçlenmesi",
+        "Yeniçeri isyanları",
+        "II. Mahmut reformları",
+        "Tımar sisteminin bozulması",
+        "İltizam sistemi"
+      ],
+      "correctAnswer": "II. Mahmut reformları"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi kronolojik olarak en yenidir?",
+      "options": [
+        "Sakarya Savaşı",
+        "TBMM'nin açılması",
+        "Mudanya Ateşkesi",
+        "Lozan Antlaşması",
+        "Büyük Taarruz"
+      ],
+      "correctAnswer": "Lozan Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin askeri gücünün zayıfladığını gösterir?",
+      "options": [
+        "Yeniçeri Ocağı'nın kurulması",
+        "Tımar sistemi",
+        "Nizam-ı Cedid reformu",
+        "Kapıkulu sistemi",
+        "Devşirme sistemi"
+      ],
+      "correctAnswer": "Nizam-ı Cedid reformu"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha önce gerçekleşmiştir?",
+      "options": [
+        "Rönesans",
+        "Reform",
+        "Sanayi İnkılabı",
+        "Fransız İhtilali",
+        "I. Dünya Savaşı"
+      ],
+      "correctAnswer": "Rönesans"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin Avrupa karşısında gerilediğini gösterir?",
+      "options": [
+        "Mohaç Zaferi",
+        "Preveze Zaferi",
+        "Karlofça Antlaşması",
+        "Varna Savaşı",
+        "Niğbolu Savaşı"
+      ],
+      "correctAnswer": "Karlofça Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diplomatik başarıdır?",
+      "options": [
+        "Sakarya Savaşı",
+        "Büyük Taarruz",
+        "Lozan Antlaşması",
+        "İnönü Savaşları",
+        "Kütahya Savaşları"
+      ],
+      "correctAnswer": "Lozan Antlaşması"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi Osmanlı Devleti'nin ekonomik yapısını olumsuz etkilemiştir?",
+      "options": [
+        "Tımar sistemi",
+        "Lonca sistemi",
+        "Kapitülasyonlar",
+        "Devşirme sistemi",
+        "Kapıkulu sistemi"
+      ],
+      "correctAnswer": "Kapitülasyonlar"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi kuruluş döneminde gerçekleşmiştir?",
+      "options": [
+        "Niğbolu Savaşı",
+        "Mohaç Savaşı",
+        "İstanbul'un Fethi",
+        "Karlofça Antlaşması",
+        "Ridaniye Savaşı"
+      ],
+      "correctAnswer": "Niğbolu Savaşı"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki gelişmelerden hangisi laikleşme sürecine katkı sağlar?",
+      "options": [
+        "Medreseler",
+        "Şeriye mahkemeleri",
+        "Karma mahkemeler",
+        "Tarikatlar",
+        "Şeyhülislam"
+      ],
+      "correctAnswer": "Karma mahkemeler"
+    },
+    {
+      "categoryId": 2,
+      "question": "Aşağıdaki olaylardan hangisi diğerlerinden daha sonra gerçekleşmiştir?",
+      "options": [
+        "Mondros",
+        "Mudanya",
+        "Lozan",
+        "TBMM",
+        "Sakarya"
+      ],
+      "correctAnswer": "Lozan"
+    },
+    {
+      "categoryId": 3,
+      "question": "Modern fiziğin temellerinden biri olan 'Görelilik Teorisi' (İzafiyet Teorisi) hangi bilim insanı tarafından geliştirilmiştir?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Stephen Hawking",
+        "Marie Curie"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "categoryId": 3,
+      "question": "İnsan vücudunda oksijen taşıyan kırmızı kan hücrelerine ne ad verilir?",
+      "options": [
+        "Alyuvar (Eritrosit)",
+        "Akyuvar (Lökosit)",
+        "Trombosit",
+        "Plazma",
+        "Hücre zarı"
+      ],
+      "correctAnswer": "Alyuvar (Eritrosit)"
+    },
+    {
+      "categoryId": 3,
+      "question": "Güneş Sistemi'nde 'Kızıl Gezegen' olarak bilinen ve yüzeyindeki demir oksit nedeniyle pas renginde görünen gezegen hangisidir?",
+      "options": [
+        "Venüs",
+        "Jüpiter",
+        "Satürn",
+        "Mars",
+        "Merkür"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "categoryId": 3,
+      "question": "Periyodik tabloda 'O' sembolü ile gösterilen, yanma olaylarının gerçekleşmesi için gerekli olan temel element hangisidir?",
+      "options": [
+        "Hidrojen",
+        "Azot",
+        "Oksijen",
+        "Karbon",
+        "Helyum"
+      ],
+      "correctAnswer": "Oksijen"
+    },
+    {
+      "categoryId": 3,
+      "question": "Suyun donma noktası Celsius (°C) ölçeğinde 0 derece iken, Fahrenheit (°F) ölçeğinde kaç derecedir?",
+      "options": [
+        "0",
+        "32",
+        "100",
+        "212",
+        "273"
+      ],
+      "correctAnswer": "32"
+    },
+    {
+      "categoryId": 3,
+      "question": "1665 yılında bir mantar tıpayı mikroskop altında inceleyerek 'hücre' (cell) terimini ilk kez kullanan bilim insanı kimdir?",
+      "options": [
+        "Louis Pasteur",
+        "Charles Darwin",
+        "Robert Hooke",
+        "Gregor Mendel",
+        "Antonie van Leeuwenhoek"
+      ],
+      "correctAnswer": "Robert Hooke"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bilinen en sert doğal madde aşağıdakilerden hangisidir?",
+      "options": [
+        "Çelik",
+        "Elmas",
+        "Kuvars",
+        "Titanyum",
+        "Granit"
+      ],
+      "correctAnswer": "Elmas"
+    },
+    {
+      "categoryId": 3,
+      "question": "Güneş'ten gelen zararlı ultraviyole ışınlarını süzerek Dünya'yı koruyan atmosfer tabakası hangisidir?",
+      "options": [
+        "İyonosfer",
+        "Mezosfer",
+        "Ozon Tabakası",
+        "Troposfer",
+        "Ekzosfer"
+      ],
+      "correctAnswer": "Ozon Tabakası"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bitkilerin güneş enerjisini kullanarak kendi besinlerini üretmesi sürecine ne ad verilir?",
+      "options": [
+        "Solunum",
+        "Terleme",
+        "Fotosentez",
+        "Mayalanma",
+        "Mutasyon"
+      ],
+      "correctAnswer": "Fotosentez"
+    },
+    {
+      "categoryId": 3,
+      "question": "Marie Curie, hangi iki farklı bilim dalında Nobel Ödülü kazanarak tarihe geçmiştir?",
+      "options": [
+        "Fizik - Matematik",
+        "Fizik - Kimya",
+        "Kimya - Biyoloji",
+        "Tıp - Fizik",
+        "Edebiyat - Barış"
+      ],
+      "correctAnswer": "Fizik - Kimya"
+    },
+    {
+      "categoryId": 3,
+      "question": "Atomun merkezinde bulunan ve proton ile nötronlardan oluşan yapıya ne denir?",
+      "options": [
+        "Elektron bulutu",
+        "Yörünge",
+        "Çekirdek",
+        "Molekül",
+        "İyon"
+      ],
+      "correctAnswer": "Çekirdek"
+    },
+    {
+      "categoryId": 3,
+      "question": "DNA'nın yapısındaki dört temel bazdan biri olan 'Guanin'in karşısına her zaman hangi baz gelir?",
+      "options": [
+        "Adenin",
+        "Timin",
+        "Urasil",
+        "Sitozin",
+        "Riboz"
+      ],
+      "correctAnswer": "Sitozin"
+    },
+    {
+      "categoryId": 3,
+      "question": "Ses hızı yaklaşık olarak saniyede kaç metredir?",
+      "options": [
+        "100 m/s",
+        "340 m/s",
+        "1200 m/s",
+        "300.000 m/s",
+        "5000 m/s"
+      ],
+      "correctAnswer": "340 m/s"
+    },
+    {
+      "categoryId": 3,
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": [
+        "Atlas Okyanusu",
+        "Hint Okyanusu",
+        "Arktik Okyanusu",
+        "Pasifik (Büyük) Okyanus",
+        "Antarktika Okyanusu"
+      ],
+      "correctAnswer": "Pasifik (Büyük) Okyanus"
+    },
+    {
+      "categoryId": 3,
+      "question": "Işığın kırılmasını ve gökkuşağı oluşumunu açıklayan, aynı zamanda yerçekimi yasasını bulan bilim insanı kimdir?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Watt"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "categoryId": 3,
+      "question": "Hangi gezegen halkalarıyla ünlü olup, Güneş Sistemi'ndeki en büyük ikinci gezegendir?",
+      "options": [
+        "Uranüs",
+        "Neptün",
+        "Satürn",
+        "Jüpiter",
+        "Venüs"
+      ],
+      "correctAnswer": "Satürn"
+    },
+    {
+      "categoryId": 3,
+      "question": "Kimyada pH değeri 7'den küçük olan maddelere ne ad verilir?",
+      "options": [
+        "Bazik",
+        "Nötr",
+        "Asidik",
+        "Tuz",
+        "Alkali"
+      ],
+      "correctAnswer": "Asidik"
+    },
+    {
+      "categoryId": 3,
+      "question": "İnsan iskeletinde bulunan en uzun kemik hangisidir?",
+      "options": [
+        "Kaval kemiği",
+        "Uyluk kemiği (Femur)",
+        "Omurga",
+        "Pazı kemiği",
+        "Kaburga"
+      ],
+      "correctAnswer": "Uyluk kemiği (Femur)"
+    },
+    {
+      "categoryId": 3,
+      "question": "Dünya'nın kendi ekseni etrafında dönmesi sonucunda ne oluşur?",
+      "options": [
+        "Mevsimler",
+        "Yıllar",
+        "Gece ve Gündüz",
+        "Ay Tutulması",
+        "Gel-Git"
+      ],
+      "correctAnswer": "Gece ve Gündüz"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bilim dünyasında 'Yıldızların Yaşam Döngüsü' ve 'Kara Delikler' üzerine yaptığı çalışmalarla tanınan, ALS hastalığına rağmen üretmeye devam etmiş efsanevi fizikçi kimdir?",
+      "options": [
+        "Richard Feynman",
+        "Stephen Hawking",
+        "Carl Sagan",
+        "Neil deGrasse Tyson",
+        "Edwin Hubble"
+      ],
+      "correctAnswer": "Stephen Hawking"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bir sıvının yüzey gerilimini azaltan ve temizlik maddelerinde kullanılan kimyasal maddelere ne ad verilir?",
+      "options": [
+        "Polimer",
+        "Çözücü",
+        "Sürfaktan",
+        "Katalizör",
+        "Enzim"
+      ],
+      "correctAnswer": "Sürfaktan"
+    },
+    {
+      "categoryId": 3,
+      "question": "Havadaki nem oranını ölçmek için kullanılan cihazın adı nedir?",
+      "options": [
+        "Barometre",
+        "Termometre",
+        "Higrometre",
+        "Anemometre",
+        "Altimetre"
+      ],
+      "correctAnswer": "Higrometre"
+    },
+    {
+      "categoryId": 3,
+      "question": "Teleskopu gökyüzünü incelemek için kullanan ilk bilim insanı kimdir?",
+      "options": [
+        "Nicolaus Copernicus",
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Giordano Bruno",
+        "John Dalton"
+      ],
+      "correctAnswer": "Galileo Galilei"
+    },
+    {
+      "categoryId": 3,
+      "question": "Kuduz aşısını bularak tıp dünyasında devrim yaratan Fransız mikrobiyolog kimdir?",
+      "options": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Jonas Salk"
+      ],
+      "correctAnswer": "Louis Pasteur"
+    },
+    {
+      "categoryId": 3,
+      "question": "Elektrik akımını ölçmek için kullanılan birim hangisidir?",
+      "options": [
+        "Volt",
+        "Watt",
+        "Ohm",
+        "Amper",
+        "Joule"
+      ],
+      "correctAnswer": "Amper"
+    },
+    {
+      "categoryId": 3,
+      "question": "Atmosferdeki gazların yaklaşık %78'ini oluşturan en bol gaz hangisidir?",
+      "options": [
+        "Oksijen",
+        "Hidrojen",
+        "Karbon dioksit",
+        "Azot",
+        "Argon"
+      ],
+      "correctAnswer": "Azot"
+    },
+    {
+      "categoryId": 3,
+      "question": "Evrenin yaklaşık 13.8 milyar yıl önce çok sıcak ve yoğun bir noktadan başladığını öne süren teori hangisidir?",
+      "options": [
+        "Kara Delik Teorisi",
+        "Big Bang (Büyük Patlama)",
+        "Sabit Durum Teorisi",
+        "Sicim Teorisi",
+        "Multiverse Teorisi"
+      ],
+      "correctAnswer": "Big Bang (Büyük Patlama)"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bir canlının genetik yapısında meydana gelen kalıcı değişikliklere ne ad verilir?",
+      "options": [
+        "Adaptasyon",
+        "Modifikasyon",
+        "Mutasyon",
+        "Varyasyon",
+        "Seçilim"
+      ],
+      "correctAnswer": "Mutasyon"
+    },
+    {
+      "categoryId": 3,
+      "question": "Güneş'e en yakın gezegen hangisidir?",
+      "options": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Dünya",
+        "Neptün"
+      ],
+      "correctAnswer": "Merkür"
+    },
+    {
+      "categoryId": 3,
+      "question": "Maddenin katı halden sıvı hale geçmeden doğrudan gaz hale geçmesine ne denir?",
+      "options": [
+        "Yoğuşma",
+        "Süblimleşme",
+        "Kırağılaşma",
+        "Buharlaşma",
+        "Erime"
+      ],
+      "correctAnswer": "Süblimleşme"
+    },
+    {
+      "categoryId": 3,
+      "question": "Penisilini keşfederek ilk antibiyotiği bulan bilim insanı kimdir?",
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Charles Darwin"
+      ],
+      "correctAnswer": "Alexander Fleming"
+    },
+    {
+      "categoryId": 3,
+      "question": "Kan şekerini düzenleyen ve pankreas tarafından salgılanan hormon hangisidir?",
+      "options": [
+        "Adrenalin",
+        "Tiroksin",
+        "İnsülin",
+        "Östrojen",
+        "Testosteron"
+      ],
+      "correctAnswer": "İnsülin"
+    },
+    {
+      "categoryId": 3,
+      "question": "1953 yılında DNA'nın ikili sarmal yapısını keşfeden iki bilim insanı kimdir?",
+      "options": [
+        "Einstein - Bohr",
+        "Watson - Crick",
+        "Newton - Leibniz",
+        "Curie - Becquerel",
+        "Darwin - Wallace"
+      ],
+      "correctAnswer": "Watson - Crick"
+    },
+    {
+      "categoryId": 3,
+      "question": "Hangi kan grubu 'Genel Alıcı' olarak bilinir?",
+      "options": [
+        "0 RH-",
+        "A RH+",
+        "B RH-",
+        "AB RH+",
+        "0 RH+"
+      ],
+      "correctAnswer": "AB RH+"
+    },
+    {
+      "categoryId": 3,
+      "question": "Kuantum mekaniğinin 'Belirsizlik İlkesi' hangi bilim insanına aittir?",
+      "options": [
+        "Werner Heisenberg",
+        "Max Planck",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Wolfgang Pauli"
+      ],
+      "correctAnswer": "Werner Heisenberg"
+    },
+    {
+      "categoryId": 3,
+      "question": "İnsanda toplamda kaç adet kromozom bulunur?",
+      "options": [
+        "23",
+        "44",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": "46"
+    },
+    {
+      "categoryId": 3,
+      "question": "Sıcaklığı ölçmek için kullanılan Kelvin ölçeğinde 'Mutlak Sıfır' noktası kaç Celsius derecedir?",
+      "options": [
+        "0 °C",
+        "-100 °C",
+        "-273.15 °C",
+        "-459 °C",
+        "100 °C"
+      ],
+      "correctAnswer": "-273.15 °C"
+    },
+    {
+      "categoryId": 3,
+      "question": "Gözdeki ışığa duyarlı olan ve görüntünün oluştuğu tabaka hangisidir?",
+      "options": [
+        "Kornea",
+        "İris",
+        "Göz bebeği",
+        "Ağ tabaka (Retina)",
+        "Sert tabaka"
+      ],
+      "correctAnswer": "Ağ tabaka (Retina)"
+    },
+    {
+      "categoryId": 3,
+      "question": "Alternatif akım (AC) sisteminin geliştirilmesinde en büyük paya sahip olan mucit kimdir?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": "Nikola Tesla"
+    },
+    {
+      "categoryId": 3,
+      "question": "Hangi gezegenin eksen eğikliği çok fazla olduğu için 'yan yatmış varil' gibi döner?",
+      "options": [
+        "Uranüs",
+        "Neptün",
+        "Satürn",
+        "Mars",
+        "Venüs"
+      ],
+      "correctAnswer": "Uranüs"
+    },
+    {
+      "categoryId": 3,
+      "question": "Doğal seçilim yoluyla evrim teorisini 'Türlerin Kökeni' adlı kitabında açıklayan bilim insanı kimdir?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Alfred Russel Wallace",
+        "Thomas Malthus"
+      ],
+      "correctAnswer": "Charles Darwin"
+    },
+    {
+      "categoryId": 3,
+      "question": "Bir atomun çekirdeğinde bulunan pozitif yüklü parçacığa ne denir?",
+      "options": [
+        "Elektron",
+        "Nötron",
+        "Proton",
+        "Pozitron",
+        "Foton"
+      ],
+      "correctAnswer": "Proton"
+    },
+    {
+      "categoryId": 3,
+      "question": "Işık yılı neyin ölçü birimidir?",
+      "options": [
+        "Zaman",
+        "Işık hızı",
+        "Mesafe (Uzaklık)",
+        "Parlaklık",
+        "Kütle"
+      ],
+      "correctAnswer": "Mesafe (Uzaklık)"
+    },
+    {
+      "categoryId": 3,
+      "question": "Yerçekimi ivmesi Dünya yüzeyinde yaklaşık olarak kaç $m/s^2$ kabul edilir?",
+      "options": [
+        "5.5",
+        "8.2",
+        "9.8",
+        "10.5",
+        "12.0"
+      ],
+      "correctAnswer": "9.8"
+    },
+    {
+      "categoryId": 3,
+      "question": "İnsan beyninde denge ve hareket eşgüdümünü sağlayan bölüm hangisidir?",
+      "options": [
+        "Beyin sapı",
+        "Omurilik soğanı",
+        "Beyincik",
+        "Hipotalamus",
+        "Talamus"
+      ],
+      "correctAnswer": "Beyincik"
+    },
+    {
+      "categoryId": 3,
+      "question": "Kimyasal tepkimelerde kütlenin korunduğunu kanıtlayan ve 'Modern Kimyanın Babası' sayılan bilim insanı kimdir?",
+      "options": [
+        "Antoine Lavoisier",
+        "John Dalton",
+        "Dmitri Mendeleev",
+        "Robert Boyle",
+        "Amedeo Avogadro"
+      ],
+      "correctAnswer": "Antoine Lavoisier"
+    },
+    {
+      "categoryId": 3,
+      "question": "Ay'a ilk ayak basan insan kimdir?",
+      "options": [
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Michael Collins",
+        "Alan Shepard"
+      ],
+      "correctAnswer": "Neil Armstrong"
+    },
+    {
+      "categoryId": 3,
+      "question": "Hangi hücre organeli protein sentezinden sorumludur?",
+      "options": [
+        "Mitokondri",
+        "Ribozom",
+        "Golgi aygıtı",
+        "Koful",
+        "Çekirdek"
+      ],
+      "correctAnswer": "Ribozom"
+    },
+    {
+      "categoryId": 3,
+      "question": "Maddenin dördüncü hali olarak kabul edilen, gazların iyonlaşmış hali hangisidir?",
+      "options": [
+        "Katı",
+        "Sıvı",
+        "Gaz",
+        "Plazma",
+        "Bose-Einstein yoğunlaşması"
+      ],
+      "correctAnswer": "Plazma"
+    },
+    {
+      "categoryId": 3,
+      "question": "James Webb Uzay Teleskobu'nun ana aynası hangi elementle kaplanmıştır?",
+      "options": [
+        "Gümüş",
+        "Alüminyum",
+        "Altın",
+        "Platin",
+        "Bakır"
+      ],
+      "correctAnswer": "Altın"
+    },
+    {
+      "categoryId": 4,
+      "question": "Rönesans döneminin en ünlü eserlerinden biri olan 'Mona Lisa' tablosu hangi sanatçıya aittir?",
+      "options": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Donatello",
+        "Caravaggio"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "categoryId": 4,
+      "question": "1508-1512 yılları arasında Vatikan'daki Sistine Şapeli'nin tavanını, iskele üzerinde sırtüstü yatarak yıllarca süren bir çalışma sonucu devasa fresklerle süsleyen sanatçı kimdir?",
+      "options": [
+        "Donatello",
+        "Botticelli",
+        "Titian",
+        "Michelangelo",
+        "Bernini"
+      ],
+      "correctAnswer": "Michelangelo"
+    },
+    {
+      "categoryId": 4,
+      "question": "Türk resim sanatının en pahalı ve ikonik eserlerinden biri olan, 1906 tarihli 'Kaplumbağa Terbiyecisi' tablosunun ressamı kimdir?",
+      "options": [
+        "Şeker Ahmed Paşa",
+        "Osman Hamdi Bey",
+        "İbrahim Çallı",
+        "Abidin Dino",
+        "Fikret Mualla"
+      ],
+      "correctAnswer": "Osman Hamdi Bey"
+    },
+    {
+      "categoryId": 4,
+      "question": "İspanya İç Savaşı sırasında Nazi Almanyası'nın Guernica kasabasını bombalamasını konu alan, kübizm akımının en önemli savaş karşıtı eseri 'Guernica' kime aittir?",
+      "options": [
+        "Salvador Dali",
+        "Joan Miro",
+        "Pablo Picasso",
+        "Francisco Goya",
+        "Velazquez"
+      ],
+      "correctAnswer": "Pablo Picasso"
+    },
+    {
+      "categoryId": 4,
+      "question": "Vincent van Gogh'un en ünlü eserlerinden biri olan 'Yıldızlı Gece', sanatçının Fransa'da kaldığı hangi mekanda, pencereden gördüğü manzarayı hafızasından resmetmesiyle oluşmuştur?",
+      "options": [
+        "Paris'teki atölyesi",
+        "Sarı Ev",
+        "Saint-Rémy'deki akıl hastanesi",
+        "Theo'nun evi",
+        "Arles'daki bir kafe"
+      ],
+      "correctAnswer": "Saint-Rémy'deki akıl hastanesi"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hollandalı ressam Johannes Vermeer tarafından yapılan ve 'Kuzey'in Mona Lisa'sı' olarak adlandırılan ünlü eser hangisidir?",
+      "options": [
+        "Süt Boşaltan Kadın",
+        "İnci Küpeli Kız",
+        "Resim Sanatı",
+        "Açık Pencere Önünde Mektup Okuyan Kız",
+        "Gece Devriyesi"
+      ],
+      "correctAnswer": "İnci Küpeli Kız"
+    },
+    {
+      "categoryId": 4,
+      "question": "Sürrealizm (Gerçeküstücülük) akımının en bilinen örneği olan ve 'eriyen saatler' olarak da bilinen 'Belleğin Azmi' tablosu hangi sanatçıya aittir?",
+      "options": [
+        "Rene Magritte",
+        "Max Ernst",
+        "Frida Kahlo",
+        "Salvador Dali",
+        "Giorgio de Chirico"
+      ],
+      "correctAnswer": "Salvador Dali"
+    },
+    {
+      "categoryId": 4,
+      "question": "Modern heykel sanatının babası kabul edilen, 'Düşünen Adam' ve 'Öpücük' gibi dünyaca ünlü bronz ve mermer heykellerin yaratıcısı kimdir?",
+      "options": [
+        "Auguste Rodin",
+        "Canova",
+        "Bernini",
+        "Henry Moore",
+        "Alberto Giacometti"
+      ],
+      "correctAnswer": "Auguste Rodin"
+    },
+    {
+      "categoryId": 4,
+      "question": "İzlenimcilik (Empresyonizm) akımına ismini veren 'İzlenim: Gündoğumu' (Impression, Soleil Levant) tablosu hangi ressama aittir?",
+      "options": [
+        "Edouard Manet",
+        "Claude Monet",
+        "Edgar Degas",
+        "Pierre-Auguste Renoir",
+        "Paul Cezanne"
+      ],
+      "correctAnswer": "Claude Monet"
+    },
+    {
+      "categoryId": 4,
+      "question": "Norveçli ressam Edvard Munch tarafından yapılan, modern insanın varoluşsal kaygısını ve korkusunu yansıtan, figürün ellerini yüzüne koyarak bağırdığı ünlü tablo hangisidir?",
+      "options": [
+        "Ayrılık",
+        "Vampir",
+        "Çığlık",
+        "Kaygı",
+        "Ergenlik"
+      ],
+      "correctAnswer": "Çığlık"
+    },
+    {
+      "categoryId": 4,
+      "question": "Sanat tarihinde 'Altın Dönem'iyle tanınan, 'Öpücük' (The Kiss) tablosunda yoğun altın varak kullanarak dekoratif ve sembolist bir tarz sergileyen Avusturyalı ressam kimdir?",
+      "options": [
+        "Egon Schiele",
+        "Gustav Klimt",
+        "Oskar Kokoschka",
+        "Caspar David Friedrich",
+        "Hans Holbein"
+      ],
+      "correctAnswer": "Gustav Klimt"
+    },
+    {
+      "categoryId": 4,
+      "question": "Meksikalı ressam Frida Kahlo, eserlerinin büyük çoğunluğunda hangi konuyu işlemiştir?",
+      "options": [
+        "Doğa manzaraları",
+        "Meksika Devrimi",
+        "Otoportreler ve fiziksel/ruhsal acı",
+        "Dini figürler",
+        "Soyut geometrik formlar"
+      ],
+      "correctAnswer": "Otoportreler ve fiziksel/ruhsal acı"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hollanda sanatının 'Altın Çağı'nda yaşamış, ışık ve gölgeyi (Chiaroscuro) kullanmadaki ustalığıyla bilinen ve 'Gece Devriyesi' tablosunu yapan ressam kimdir?",
+      "options": [
+        "Frans Hals",
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Pieter Bruegel",
+        "Hieronymus Bosch"
+      ],
+      "correctAnswer": "Rembrandt van Rijn"
+    },
+    {
+      "categoryId": 4,
+      "question": "Barok dönemi heykel sanatının zirvesi kabul edilen, Roma'daki 'Azize Teresa'nın Vecdi' ve 'Daphne ve Apollon' eserlerini yapan dahi sanatçı kimdir?",
+      "options": [
+        "Michelangelo",
+        "Donatello",
+        "Gian Lorenzo Bernini",
+        "Canova",
+        "Rodin"
+      ],
+      "correctAnswer": "Gian Lorenzo Bernini"
+    },
+    {
+      "categoryId": 4,
+      "question": "Pop Art akımının en önemli temsilcisi olan, Marilyn Monroe ve Campbell çorba konserveleri gibi nesneleri sanat eserine dönüştüren Amerikalı sanatçı kimdir?",
+      "options": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Keith Haring",
+        "Jackson Pollock",
+        "Jeff Koons"
+      ],
+      "correctAnswer": "Andy Warhol"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hangi sanat akımı, nesnelerin doğadaki gibi değil, sanatçının zihninde parçalanmış ve farklı geometrik açılardan yeniden birleştirilmiş halini temsil eder?",
+      "options": [
+        "Realizm",
+        "Sürrealizm",
+        "Kübizm",
+        "Fovizm",
+        "Ekspresyonizm"
+      ],
+      "correctAnswer": "Kübizm"
+    },
+    {
+      "categoryId": 4,
+      "question": "Sistine Şapeli'nin sunak duvarında yer alan ve insanlığın kaderini betimleyen devasa Michelangelo freski hangisidir?",
+      "options": [
+        "Adem'in Yaratılışı",
+        "Son Akşam Yemeği",
+        "Kıyamet Günü (The Last Judgment)",
+        "Musa'nın Hükmü",
+        "İsa'nın Vaftizi"
+      ],
+      "correctAnswer": "Kıyamet Günü (The Last Judgment)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Leonardo da Vinci'nin Milano'daki bir manastırın yemekhanesine yaptığı, İsa ve havarilerini konu alan dünyaca ünlü duvar resmi hangisidir?",
+      "options": [
+        "Mona Lisa",
+        "Kayalıklar Bakiresi",
+        "Son Akşam Yemeği",
+        "Vitruvius Adamı",
+        "Müjde"
+      ],
+      "correctAnswer": "Son Akşam Yemeği"
+    },
+    {
+      "categoryId": 4,
+      "question": "Geometrik soyutlama sanatının öncülerinden olan, sadece beyaz zemin üzerine siyah çizgiler ve ana renkleri (Kırmızı, Mavi, Sarı) kullanan Hollandalı ressam kimdir?",
+      "options": [
+        "Piet Mondrian",
+        "Kandinsky",
+        "Malevich",
+        "Paul Klee",
+        "Joan Miro"
+      ],
+      "correctAnswer": "Piet Mondrian"
+    },
+    {
+      "categoryId": 4,
+      "question": "İtalyan sanatçı Botticelli'nin en ünlü eseri olan, bir deniz kabuğunun üzerinde doğan tanrıçayı betimleyen Rönesans başyapıtı hangisidir?",
+      "options": [
+        "Primavera (Bahar)",
+        "Venüs'ün Doğuşu",
+        "Müjde",
+        "Görkemli Bakire",
+        "Venüs ve Mars"
+      ],
+      "correctAnswer": "Venüs'ün Doğuşu"
+    },
+    {
+      "categoryId": 4,
+      "question": "Modern sanatın babası sayılan, fırça darbelerini yapısal bir düzende kullanarak kübizme giden yolu açan post-empresyonist sanatçı kimdir?",
+      "options": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Paul Cezanne",
+        "Georges Seurat",
+        "Henri Matisse"
+      ],
+      "correctAnswer": "Paul Cezanne"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hangi mimari üslup; sivri kemerler, uçan payandalar ve devasa vitray pencerelerle karakterize edilir?",
+      "options": [
+        "Romanesk",
+        "Barok",
+        "Gotik",
+        "Rönesans",
+        "Neo-Klasik"
+      ],
+      "correctAnswer": "Gotik"
+    },
+    {
+      "categoryId": 4,
+      "question": "İspanyol ressam Francisco Goya'nın, Fransız askerlerinin İspanyol direnişçileri kurşuna dizmesini betimleyen dramatik tablosu hangisidir?",
+      "options": [
+        "Çıplak Maya",
+        "Satürn Çocuklarını Yiyor",
+        "3 Mayıs 1808",
+        "Savaşın Felaketleri",
+        "IV. Carlos'un Ailesi"
+      ],
+      "correctAnswer": "3 Mayıs 1808"
+    },
+    {
+      "categoryId": 4,
+      "question": "Henri Matisse tarafından öncülüğü yapılan, canlı ve çiğ renklerin özgürce kullanıldığı, Fransızcada 'vahşi hayvanlar' anlamına gelen sanat akımı hangisidir?",
+      "options": [
+        "Fovizm",
+        "Dadaizm",
+        "Fütürizm",
+        "Sembolizm",
+        "Empresyonizm"
+      ],
+      "correctAnswer": "Fovizm"
+    },
+    {
+      "categoryId": 4,
+      "question": "Soyut dışavurumculuğun en önemli ismi olan, tuvali yere serip boyayı üzerine damlatma (Drip Painting) tekniğiyle çalışan sanatçı kimdir?",
+      "options": [
+        "Mark Rothko",
+        "Willem de Kooning",
+        "Jackson Pollock",
+        "Barnett Newman",
+        "Andy Warhol"
+      ],
+      "correctAnswer": "Jackson Pollock"
+    },
+    {
+      "categoryId": 4,
+      "question": "Fransız sanatçı Marcel Duchamp'ın bir pisuvarı ters çevirip 'Çeşme' adıyla sergilemesiyle başlayan ve hazır nesnelerin sanat eseri olarak sunulduğu anlayışa ne ad verilir?",
+      "options": [
+        "Pop Art",
+        "Ready-made (Hazır Nesne)",
+        "Minimalizm",
+        "Kavramsal Sanat",
+        "Dadaizm"
+      ],
+      "correctAnswer": "Ready-made (Hazır Nesne)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Atina Akropolisi'nde bulunan ve tanrıça Athena'ya adanan, Antik Yunan mimarisinin en mükemmel örneği kabul edilen tapınak hangisidir?",
+      "options": [
+        "Erehteyon",
+        "Parthenon",
+        "Hephaistos Tapınağı",
+        "Zeus Tapınağı",
+        "Artemis Tapınağı"
+      ],
+      "correctAnswer": "Parthenon"
+    },
+    {
+      "categoryId": 4,
+      "question": "Leonardo da Vinci'nin insan vücudunun ideal oranlarını çizdiği, kare ve daire içine yerleştirilmiş çıplak erkek figürü çizimine ne ad verilir?",
+      "options": [
+        "Mona Lisa",
+        "Vitruvius Adamı",
+        "Adonais",
+        "Davut",
+        "Kutsal İnsan"
+      ],
+      "correctAnswer": "Vitruvius Adamı"
+    },
+    {
+      "categoryId": 4,
+      "question": "17. yüzyıl İspanyol sanatının başyapıtı sayılan, saray nedimelerini ve kraliyet ailesini karmaşık bir perspektifle gösteren Velazquez tablosu hangisidir?",
+      "options": [
+        "Las Meninas (Nedimeler)",
+        "Breda'nın Teslimi",
+        "Aynadaki Venüs",
+        "Papa X. Innocentius",
+        "Cüce Sebastian"
+      ],
+      "correctAnswer": "Las Meninas (Nedimeler)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Rönesans'ın üç büyük ustasından biri olan Raphael'in, antik çağın filozoflarını tek bir sahnede topladığı ünlü freski hangisidir?",
+      "options": [
+        "Galatea'nın Zaferi",
+        "Atina Okulu",
+        "Parnassus",
+        "Kutsal Tartışma",
+        "Meryem'in Nişanı"
+      ],
+      "correctAnswer": "Atina Okulu"
+    },
+    {
+      "categoryId": 4,
+      "question": "Fransız heykeltıraş Frédéric Auguste Bartholdi tarafından tasarlanan ve Fransa'nın ABD'ye hediyesi olan Özgürlük Heykeli'nin iç iskeletini kim tasarlamıştır?",
+      "options": [
+        "Gustave Eiffel",
+        "Le Corbusier",
+        "Charles Garnier",
+        "Eugene Viollet-le-Duc",
+        "Frank Lloyd Wright"
+      ],
+      "correctAnswer": "Gustave Eiffel"
+    },
+    {
+      "categoryId": 4,
+      "question": "Jan van Eyck'ın 1434 tarihli 'Arnolfini'nin Evlenmesi' tablosunda, odanın arka duvarındaki aynada sanatçının kendisinin de göründüğü ve evliliğe şahitlik ettiği bilinen tablo hangi döneme aittir?",
+      "options": [
+        "İtalyan Rönesansı",
+        "Kuzey Rönesansı",
+        "Barok",
+        "Gotik",
+        "Maniyerizm"
+      ],
+      "correctAnswer": "Kuzey Rönesansı"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hangi sanatçı, kulağını kestikten kısa bir süre sonra yaptığı otoportresiyle tanınan ve post-empresyonizmin en duygusal figürü kabul edilen ressamdır?",
+      "options": [
+        "Paul Gauguin",
+        "Edouard Manet",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec",
+        "Paul Cezanne"
+      ],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "categoryId": 4,
+      "question": "20. yüzyılın en önemli kadın sanatçılarından biri olan, devasa örümcek heykelleri (Maman) ile tanınan Fransız-Amerikalı heykeltıraş kimdir?",
+      "options": [
+        "Louise Bourgeois",
+        "Barbara Hepworth",
+        "Yayoi Kusama",
+        "Marina Abramovic",
+        "Frida Kahlo"
+      ],
+      "correctAnswer": "Louise Bourgeois"
+    },
+    {
+      "categoryId": 4,
+      "question": "Auguste Rodin'in 'Düşünen Adam' heykeli aslında hangi devasa kapı kompozisyonunun bir parçası olarak tasarlanmıştır?",
+      "options": [
+        "Cennetin Kapıları",
+        "Cehennem Kapıları",
+        "Vatikan Kapısı",
+        "Zafer Takı",
+        "Aslanlı Kapı"
+      ],
+      "correctAnswer": "Cehennem Kapıları"
+    },
+    {
+      "categoryId": 4,
+      "question": "Kendi döneminde değeri pek anlaşılmayan ancak günümüzde 'Yıldızlı Gece', 'Ayçiçekleri' ve 'Patates Yiyenler' gibi eserleriyle milyarlarca dolar değer gören Hollandalı sanatçı kimdir?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Mondrian",
+        "Van Gogh",
+        "Bosch"
+      ],
+      "correctAnswer": "Van Gogh"
+    },
+    {
+      "categoryId": 4,
+      "question": "19. yüzyılda Fransa'da ortaya çıkan, açık havada ışığın anlık değişimlerini yakalamayı amaçlayan sanat akımı hangisidir?",
+      "options": [
+        "Romantizm",
+        "Realizm",
+        "Empresyonizm (İzlenimcilik)",
+        "Neo-Klasisizm",
+        "Ekspresyonizm"
+      ],
+      "correctAnswer": "Empresyonizm (İzlenimcilik)"
+    },
+    {
+      "categoryId": 4,
+      "question": "İtalyan ressam Caravaggio'nun başlattığı, aşırı ışık-gölge karşıtlığına dayanan ve Barok sanatı derinden etkileyen teknik hangisidir?",
+      "options": [
+        "Sfumato",
+        "Tenebrism (Karanlıkçılık)",
+        "Fresk",
+        "Mozaik",
+        "Gravür"
+      ],
+      "correctAnswer": "Tenebrism (Karanlıkçılık)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Belçikalı sürrealist ressam Rene Magritte'in, bir pipo çizip altına 'Bu bir pipo değildir' (Ceci n'est pas une pipe) yazdığı ünlü eseri hangisidir?",
+      "options": [
+        "İmgelerin İhaneti",
+        "İnsanlık Durumu",
+        "Aşıklar",
+        "Golkonda",
+        "Sahte Ayna"
+      ],
+      "correctAnswer": "İmgelerin İhaneti"
+    },
+    {
+      "categoryId": 4,
+      "question": "Mimar Sinan'ın 'çıraklık eserim' dediği İstanbul'daki cami hangisidir?",
+      "options": [
+        "Süleymaniye Camii",
+        "Selimiye Camii",
+        "Şehzade Camii",
+        "Mihrimah Sultan Camii",
+        "Rüstem Paşa Camii"
+      ],
+      "correctAnswer": "Şehzade Camii"
+    },
+    {
+      "categoryId": 4,
+      "question": "Mimar Sinan'ın 'ustalık eserim' dediği ve Edirne'de bulunan dünya mirası yapı hangisidir?",
+      "options": [
+        "Süleymaniye Camii",
+        "Selimiye Camii",
+        "Sultanahmet Camii",
+        "Yeni Cami",
+        "Fatih Camii"
+      ],
+      "correctAnswer": "Selimiye Camii"
+    },
+    {
+      "categoryId": 4,
+      "question": "Rönesans döneminde Leonardo da Vinci tarafından kullanılan, renkler ve tonlar arasındaki geçişin dumanlı bir şekilde, sınırları belli olmayacak şekilde yapılması tekniğine ne denir?",
+      "options": [
+        "Empasto",
+        "Sfumato",
+        "Glazing",
+        "Guaş",
+        "Eskiz"
+      ],
+      "correctAnswer": "Sfumato"
+    },
+    {
+      "categoryId": 4,
+      "question": "Amerikan Gotik (American Gothic) tablosundaki elinde yaba tutan çiftçi ve yanındaki kadını resmeden sanatçı kimdir?",
+      "options": [
+        "Edward Hopper",
+        "Grant Wood",
+        "Norman Rockwell",
+        "Andrew Wyeth",
+        "Thomas Hart Benton"
+      ],
+      "correctAnswer": "Grant Wood"
+    },
+    {
+      "categoryId": 4,
+      "question": "Dünyanın en büyük müzesi olan ve Mona Lisa'ya ev sahipliği yapan Paris'teki müze hangisidir?",
+      "options": [
+        "British Museum",
+        "Metropolitan Sanat Müzesi",
+        "Louvre Müzesi",
+        "Prado Müzesi",
+        "Hermitage Müzesi"
+      ],
+      "correctAnswer": "Louvre Müzesi"
+    },
+    {
+      "categoryId": 4,
+      "question": "19. yüzyıl sonunda Georges Seurat tarafından geliştirilen, binlerce küçük renk noktasının yan yana getirilmesiyle oluşturulan resim tekniğine ne ad verilir?",
+      "options": [
+        "Puantilizm (Noktacılık)",
+        "Fovizm",
+        "Kübizm",
+        "Lekecilik",
+        "Sürrealizm"
+      ],
+      "correctAnswer": "Puantilizm (Noktacılık)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Eyfel Kulesi hangi olay anısına ve ne zaman inşa edilmiştir?",
+      "options": [
+        "Napolyon'un Zaferi (1804)",
+        "Fransız İhtilali'nin 100. Yılı (1889)",
+        "I. Dünya Savaşı Sonu (1918)",
+        "Paris'in Kurtuluşu (1944)",
+        "Roma-Germen İmparatorluğu Sonu (1806)"
+      ],
+      "correctAnswer": "Fransız İhtilali'nin 100. Yılı (1889)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Hangi ressam, kendi yüzünü bir kaya formunun içine yerleştirdiği ve devasa fillerin incecik bacaklarla yürüdüğü rüya sahnelerini resmetmiştir?",
+      "options": [
+        "Salvador Dali",
+        "Rene Magritte",
+        "Joan Miro",
+        "Frida Kahlo",
+        "Yves Tanguy"
+      ],
+      "correctAnswer": "Salvador Dali"
+    },
+    {
+      "categoryId": 4,
+      "question": "Sistine Şapeli'ndeki 'Adem'in Yaratılışı' freskinde, Tanrı ile Adem'in parmak uçlarının neredeyse birbirine değdiği sahne hangi sanatsal dönemi temsil eder?",
+      "options": [
+        "Erken Rönesans",
+        "Yüksek Rönesans",
+        "Barok",
+        "Rokoko",
+        "Neo-Klasisizm"
+      ],
+      "correctAnswer": "Yüksek Rönesans"
+    },
+    {
+      "categoryId": 4,
+      "question": "İbrahim Çallı'nın da dahil olduğu, I. Dünya Savaşı yıllarında yetişen ve Türk resminde manzara ile figürü izlenimci bir tarzda işleyen sanatçı grubuna ne ad verilir?",
+      "options": [
+        "D Grubu",
+        "Yeniler Grubu",
+        "Müstakil Ressamlar",
+        "14 Kuşağı (Çallı Kuşağı)",
+        "Onlar Grubu"
+      ],
+      "correctAnswer": "14 Kuşağı (Çallı Kuşağı)"
+    },
+    {
+      "categoryId": 4,
+      "question": "Kandinsky'nin kurucularından olduğu, renklerin ve formların nesnelerden bağımsız olarak duyguları ifade etmesi gerektiğini savunan modern sanat akımı hangisidir?",
+      "options": [
+        "Soyut Sanat",
+        "Realizm",
+        "Doğalcılık",
+        "Akademizm",
+        "Klasisizm"
+      ],
+      "correctAnswer": "Soyut Sanat"
+    },
+    {
+      "categoryId": 5,
+      "question": "Nobel Barış Ödülü'nü kazanan ilk Türk vatandaşı kimdir?",
+      "options": [
+        "Orhan Pamuk",
+        "Aziz Sancar",
+        "Yaşar Kemal",
+        "Leyla Zana",
+        "Şirin Ebadi"
+      ],
+      "correctAnswer": "Orhan Pamuk"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en derin noktası olan ve Büyük Okyanus'ta bulunan çukurun adı nedir?",
+      "options": [
+        "Tonga Çukuru",
+        "Java Çukuru",
+        "Mariana Çukuru",
+        "Porto Riko Çukuru",
+        "Hürmüz Çukuru"
+      ],
+      "correctAnswer": "Mariana Çukuru"
+    },
+    {
+      "categoryId": 5,
+      "question": "1912 yılında ilk yolculuğunda bir buz dağına çarparak batan, o dönemin en büyük ve 'batmaz' denilen transatlantiği hangisidir?",
+      "options": [
+        "Britannic",
+        "Olympic",
+        "Lusitania",
+        "Titanic",
+        "Queen Mary"
+      ],
+      "correctAnswer": "Titanic"
+    },
+    {
+      "categoryId": 5,
+      "question": "İstiklal Marşımızın şairi Mehmet Akif Ersoy, bu marşı hangi orduya ithaf etmiştir?",
+      "options": [
+        "Türk Gençliğine",
+        "Türk Polisine",
+        "Türk Ordusuna",
+        "TBMM Üyelerine",
+        "Anadolu Halkına"
+      ],
+      "correctAnswer": "Türk Ordusuna"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın yedi harikasından biri olan ve günümüzde hala ayakta kalan tek yapı hangisidir?",
+      "options": [
+        "Babil'in Asma Bahçeleri",
+        "Artemis Tapınağı",
+        "Keops Piramidi",
+        "Rodos Heykeli",
+        "İskenderiye Feneri"
+      ],
+      "correctAnswer": "Keops Piramidi"
+    },
+    {
+      "categoryId": 5,
+      "question": "Cumhuriyet tarihimizin ilk kadın muhtarı kimdir?",
+      "options": [
+        "Gül Esin",
+        "Sabiha Gökçen",
+        "Halide Edip Adıvar",
+        "Behice Boran",
+        "Afet İnan"
+      ],
+      "correctAnswer": "Gül Esin"
+    },
+    {
+      "categoryId": 5,
+      "question": "Asıl adı Samuel Langhorne Clemens olan, 'Tom Sawyer' ve 'Huckleberry Finn'in Maceraları' kitaplarının ünlü yazarı kimdir?",
+      "options": [
+        "Jack London",
+        "Ernest Hemingway",
+        "Mark Twain",
+        "Charles Dickens",
+        "Oscar Wilde"
+      ],
+      "correctAnswer": "Mark Twain"
+    },
+    {
+      "categoryId": 5,
+      "question": "Türkiye'nin yüz ölçümü bakımından en büyük gölü hangisidir?",
+      "options": [
+        "Tuz Gölü",
+        "Beyşehir Gölü",
+        "Eğirdir Gölü",
+        "Van Gölü",
+        "İznik Gölü"
+      ],
+      "correctAnswer": "Van Gölü"
+    },
+    {
+      "categoryId": 5,
+      "question": "1986 yılında Ukrayna'da meydana gelen ve tarihin en büyük nükleer kazalarından biri kabul edilen olay hangi şehirde gerçekleşmiştir?",
+      "options": [
+        "Kiev",
+        "Pripyat (Çernobil)",
+        "Lviv",
+        "Odessa",
+        "Harkov"
+      ],
+      "correctAnswer": "Pripyat (Çernobil)"
+    },
+    {
+      "categoryId": 5,
+      "question": "İnsan hakları savunucusu ve Güney Afrika'nın ilk siyahi devlet başkanı olan, 'Madiba' lakaplı lider kimdir?",
+      "options": [
+        "Martin Luther King",
+        "Malcolm X",
+        "Nelson Mandela",
+        "Kofi Annan",
+        "Desmond Tutu"
+      ],
+      "correctAnswer": "Nelson Mandela"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en kalabalık ülkesi olma unvanını 2023 yılında Çin'den devralan ülke hangisidir?",
+      "options": [
+        "Amerika Birleşik Devletleri",
+        "Endonezya",
+        "Brezilya",
+        "Hindistan",
+        "Pakistan"
+      ],
+      "correctAnswer": "Hindistan"
+    },
+    {
+      "categoryId": 5,
+      "question": "Modern hemşireliğin kurucusu kabul edilen ve Kırım Savaşı sırasında 'Lambalı Kadın' olarak tanınan kişi kimdir?",
+      "options": [
+        "Marie Curie",
+        "Clara Barton",
+        "Florence Nightingale",
+        "Mother Teresa",
+        "Rosa Parks"
+      ],
+      "correctAnswer": "Florence Nightingale"
+    },
+    {
+      "categoryId": 5,
+      "question": "Birleşmiş Milletler (BM) Genel Merkezi hangi şehirde bulunmaktadır?",
+      "options": [
+        "Cenevre",
+        "Londra",
+        "Paris",
+        "New York",
+        "Viyana"
+      ],
+      "correctAnswer": "New York"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en yüksek şelalesi olan Angel Şelalesi hangi ülkededir?",
+      "options": [
+        "Brezilya",
+        "Kanada",
+        "Venezuela",
+        "Güney Afrika",
+        "Norveç"
+      ],
+      "correctAnswer": "Venezuela"
+    },
+    {
+      "categoryId": 5,
+      "question": "Kendi adıyla anılan 'Mors Alfabesi'ni geliştiren ve telgrafın mucitlerinden biri olan Amerikalı kimdir?",
+      "options": [
+        "Samuel Morse",
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": "Samuel Morse"
+    },
+    {
+      "categoryId": 5,
+      "question": "Türk edebiyatının ilk romanı olarak kabul edilen 'Taaşşuk-ı Talat ve Fitnat' kimin eseridir?",
+      "options": [
+        "Namık Kemal",
+        "Şemsettin Sami",
+        "Ahmet Mithat Efendi",
+        "Recaizade Mahmut Ekrem",
+        "Sami Paşazade Sezai"
+      ],
+      "correctAnswer": "Şemsettin Sami"
+    },
+    {
+      "categoryId": 5,
+      "question": "Güney Amerika kıtasının en büyük ülkesi hangisidir?",
+      "options": [
+        "Arjantin",
+        "Şili",
+        "Kolombiya",
+        "Brezilya",
+        "Peru"
+      ],
+      "correctAnswer": "Brezilya"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en büyük sıcak çölü olan Sahra Çölü hangi kıtada yer alır?",
+      "options": [
+        "Asya",
+        "Avrupa",
+        "Afrika",
+        "Avustralya",
+        "Güney Amerika"
+      ],
+      "correctAnswer": "Afrika"
+    },
+    {
+      "categoryId": 5,
+      "question": "Türkiye'nin en yüksek dağı olan Ağrı Dağı'nın yüksekliği yaklaşık kaç metredir?",
+      "options": [
+        "3917",
+        "4058",
+        "5137",
+        "5671",
+        "4810"
+      ],
+      "correctAnswer": "5137"
+    },
+    {
+      "categoryId": 5,
+      "question": "Savaş ve Barış ile Anna Karenina gibi dünya edebiyatının başyapıtlarını kaleme alan Rus yazar kimdir?",
+      "options": [
+        "Dostoyevski",
+        "Tolstoy",
+        "Gogol",
+        "Çehov",
+        "Turgenyev"
+      ],
+      "correctAnswer": "Tolstoy"
+    },
+    {
+      "categoryId": 5,
+      "question": "Atatürk'ün 'Benim şahsi meselem' dediği ve 1939 yılında Türkiye topraklarına katılan şehir hangisidir?",
+      "options": [
+        "Hatay",
+        "Antalya",
+        "Edirne",
+        "İzmir",
+        "Kars"
+      ],
+      "correctAnswer": "Hatay"
+    },
+    {
+      "categoryId": 5,
+      "question": "Yüz ölçümü bakımından dünyanın en küçük ülkesi hangisidir?",
+      "options": [
+        "Monako",
+        "San Marino",
+        "Vatikan",
+        "Lüksemburg",
+        "Malta"
+      ],
+      "correctAnswer": "Vatikan"
+    },
+    {
+      "categoryId": 5,
+      "question": "Osmanlı Devleti'nde matbaayı kuran ve ilk kitabı basan kişi kimdir?",
+      "options": [
+        "Hezarfen Ahmed Çelebi",
+        "Katip Çelebi",
+        "İbrahim Müteferrika",
+        "Piri Reis",
+        "Evliya Çelebi"
+      ],
+      "correctAnswer": "İbrahim Müteferrika"
+    },
+    {
+      "categoryId": 5,
+      "question": "Arapçada 'Ceziretü'l Arab' olarak bilinen ve üç tarafı denizlerle çevrili olan kara parçasına ne ad verilir?",
+      "options": [
+        "Körfez",
+        "Ada",
+        "Burun",
+        "Yarımada",
+        "Delta"
+      ],
+      "correctAnswer": "Yarımada"
+    },
+    {
+      "categoryId": 5,
+      "question": "Hangi ülkenin bayrağında akçaağaç yaprağı sembolü bulunur?",
+      "options": [
+        "İsveç",
+        "Kanada",
+        "Lübnan",
+        "Japonya",
+        "Güney Kore"
+      ],
+      "correctAnswer": "Kanada"
+    },
+    {
+      "categoryId": 5,
+      "question": "Eski adı 'Konstantinopolis' olan İstanbul, hangi yıl Osmanlı İmparatorluğu tarafından fethedilmiştir?",
+      "options": [
+        "1071",
+        "1299",
+        "1453",
+        "1517",
+        "1881"
+      ],
+      "correctAnswer": "1453"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en uzun nehrini kabul edilen Amazon Nehri hangi kıtadadır?",
+      "options": [
+        "Kuzey Amerika",
+        "Güney Amerika",
+        "Afrika",
+        "Asya",
+        "Avustralya"
+      ],
+      "correctAnswer": "Güney Amerika"
+    },
+    {
+      "categoryId": 5,
+      "question": "İsviçre'nin başkenti neresidir?",
+      "options": [
+        "Zürih",
+        "Cenevre",
+        "Bern",
+        "Lozan",
+        "Basel"
+      ],
+      "correctAnswer": "Bern"
+    },
+    {
+      "categoryId": 5,
+      "question": "Fransız İhtilali hangi yıl gerçekleşmiştir?",
+      "options": [
+        "1776",
+        "1789",
+        "1815",
+        "1848",
+        "1914"
+      ],
+      "correctAnswer": "1789"
+    },
+    {
+      "categoryId": 5,
+      "question": "Kendi ekseni etrafındaki bir dönüşünü yaklaşık 243 günde tamamlayan, yani bir günü bir yılından daha uzun olan gezegen hangisidir?",
+      "options": [
+        "Mars",
+        "Venüs",
+        "Merkür",
+        "Jüpiter",
+        "Neptün"
+      ],
+      "correctAnswer": "Venüs"
+    },
+    {
+      "categoryId": 5,
+      "question": "Mimar Sinan tarafından yapılan ve 'Ustalık Eserim' dediği Selimiye Camii hangi ilimizdedir?",
+      "options": [
+        "İstanbul",
+        "Edirne",
+        "Bursa",
+        "Konya",
+        "Ankara"
+      ],
+      "correctAnswer": "Edirne"
+    },
+    {
+      "categoryId": 5,
+      "question": "Hangi hayvan 'Yeryüzündeki en büyük memeli' unvanına sahiptir?",
+      "options": [
+        "Fil",
+        "Zürafa",
+        "Mavi Balina",
+        "Gergedan",
+        "Beyaz Köpekbalığı"
+      ],
+      "correctAnswer": "Mavi Balina"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünya genelinde her yıl 8 Mart tarihinde kutlanan özel gün hangisidir?",
+      "options": [
+        "İşçi Bayramı",
+        "Çocuk Bayramı",
+        "Dünya Kadınlar Günü",
+        "Babalar Günü",
+        "Öğretmenler Günü"
+      ],
+      "correctAnswer": "Dünya Kadınlar Günü"
+    },
+    {
+      "categoryId": 5,
+      "question": "Bilinen en eski yazılı kanunlar hangi uygarlığa aittir?",
+      "options": [
+        "Mısırlılar",
+        "Sümerler",
+        "Hititler",
+        "Romalılar",
+        "Persler"
+      ],
+      "correctAnswer": "Sümerler"
+    },
+    {
+      "categoryId": 5,
+      "question": "Almanya'nın başkenti neresidir?",
+      "options": [
+        "Münih",
+        "Hamburg",
+        "Frankfurt",
+        "Berlin",
+        "Köln"
+      ],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "categoryId": 5,
+      "question": "İstiklal Marşı'nın bestecisi kimdir?",
+      "options": [
+        "Mehmet Akif Ersoy",
+        "Zeki Üngör",
+        "Cemal Reşit Rey",
+        "Münir Nurettin Selçuk",
+        "Ulvi Cemal Erkin"
+      ],
+      "correctAnswer": "Zeki Üngör"
+    },
+    {
+      "categoryId": 5,
+      "question": "Japonya'nın para birimi nedir?",
+      "options": [
+        "Dolar",
+        "Euro",
+        "Yen",
+        "Won",
+        "Rupi"
+      ],
+      "correctAnswer": "Yen"
+    },
+    {
+      "categoryId": 5,
+      "question": "Dünyanın en yüksek dağı olan Everest Tepesi hangi sıradağlar üzerindedir?",
+      "options": [
+        "Alpler",
+        "And Dağları",
+        "Himalayalar",
+        "Kayalık Dağlar",
+        "Atlas Dağları"
+      ],
+      "correctAnswer": "Himalayalar"
+    },
+    {
+      "categoryId": 5,
+      "question": "Avustralya'nın başkenti neresidir?",
+      "options": [
+        "Sidney",
+        "Melbourne",
+        "Canberra",
+        "Perth",
+        "Brisbane"
+      ],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "categoryId": 5,
+      "question": "Modern Olimpiyat Oyunları'nın kurucusu kabul edilen Fransız kimdir?",
+      "options": [
+        "Napolyon",
+        "Victor Hugo",
+        "Pierre de Coubertin",
+        "Charles de Gaulle",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": "Pierre de Coubertin"
+    },
+    {
+      "categoryId": 5,
+      "question": "Hangi Türk devleti tarihte ilk kez yerleşik hayata geçmiştir?",
+      "options": [
+        "Hunlar",
+        "Göktürkler",
+        "Uygurlar",
+        "Selçuklular",
+        "Osmanlılar"
+      ],
+      "correctAnswer": "Uygurlar"
+    },
+    {
+      "categoryId": 5,
+      "question": "Nobel Ödülleri hangi ülkede verilmektedir?",
+      "options": [
+        "Almanya",
+        "Norveç ve İsveç",
+        "Amerika Birleşik Devletleri",
+        "Fransa",
+        "İngiltere"
+      ],
+      "correctAnswer": "Norveç ve İsveç"
+    },
+    {
+      "categoryId": 5,
+      "question": "Kendi adıyla anılan 'Arşimet Prensibi'ni bularak suyun kaldırma kuvvetini keşfeden bilim insanı hangi medeniyette yaşamıştır?",
+      "options": [
+        "Antik Roma",
+        "Antik Yunan",
+        "Babil",
+        "Asur",
+        "Mısır"
+      ],
+      "correctAnswer": "Antik Yunan"
+    },
+    {
+      "categoryId": 5,
+      "question": "Tarihteki ilk kadın savaş uçağı pilotumuz kimdir?",
+      "options": [
+        "Halide Edip Adıvar",
+        "Sabiha Gökçen",
+        "Nene Hatun",
+        "Şerife Bacı",
+        "Satı Kadın"
+      ],
+      "correctAnswer": "Sabiha Gökçen"
+    },
+    {
+      "categoryId": 5,
+      "question": "Amerika Birleşik Devletleri'nin ilk başkanı kimdir?",
+      "options": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "categoryId": 5,
+      "question": "Hangi vitaminin eksikliği gece körlüğüne neden olur?",
+      "options": [
+        "A Vitamini",
+        "B Vitamini",
+        "C Vitamini",
+        "D Vitamini",
+        "E Vitamini"
+      ],
+      "correctAnswer": "A Vitamini"
+    },
+    {
+      "categoryId": 5,
+      "question": "Türkiye'nin ilk milli parkı neresidir?",
+      "options": [
+        "Uludağ Milli Parkı",
+        "Yozgat Çamlığı Milli Parkı",
+        "Kuşcenneti Milli Parkı",
+        "Munzur Vadisi Milli Parkı",
+        "Yedigöller Milli Parkı"
+      ],
+      "correctAnswer": "Yozgat Çamlığı Milli Parkı"
+    },
+    {
+      "categoryId": 5,
+      "question": "Güneş Sistemi'nde en çok uydusu olan gezegen hangisidir?",
+      "options": [
+        "Dünya",
+        "Mars",
+        "Jüpiter",
+        "Satürn",
+        "Uranüs"
+      ],
+      "correctAnswer": "Satürn"
+    },
+    {
+      "categoryId": 5,
+      "question": "Avrupa Birliği'nin ortak para birimi olan Euro, hangi yıl fiziksel olarak dolaşıma girmiştir?",
+      "options": [
+        "1999",
+        "2000",
+        "2002",
+        "2005",
+        "2010"
+      ],
+      "correctAnswer": "2002"
+    },
+    {
+      "categoryId": 5,
+      "question": "İngiliz yazar J.K. Rowling tarafından kaleme alınan ve dünya çapında milyonlarca satan büyücülük temalı kitap serisi hangisidir?",
+      "options": [
+        "Yüzüklerin Efendisi",
+        "Taht Oyunları",
+        "Harry Potter",
+        "Alacakaranlık",
+        "Narnia Günlükleri"
+      ],
+      "correctAnswer": "Harry Potter"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en yüksek tepesi olan Everest, hangi sıradağlar üzerinde yer almaktadır?",
+      "options": [
+        "And Dağları",
+        "Alpler",
+        "Himalayalar",
+        "Kayalık Dağlar",
+        "Ural Dağları"
+      ],
+      "correctAnswer": "Himalayalar"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin sınırları içerisinde doğup yine Türkiye sınırları içerisinde denize dökülen en uzun nehir hangisidir?",
+      "options": [
+        "Fırat",
+        "Dicle",
+        "Sakarya",
+        "Kızılırmak",
+        "Yeşilırmak"
+      ],
+      "correctAnswer": "Kızılırmak"
+    },
+    {
+      "categoryId": 6,
+      "question": "Afrika kıtasının en yüksek noktası olan ve sönmüş bir yanardağ özelliği taşıyan zirve hangisidir?",
+      "options": [
+        "Kilimanjaro",
+        "Everest",
+        "Mont Blanc",
+        "Elbrus",
+        "Aconcagua"
+      ],
+      "correctAnswer": "Kilimanjaro"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en büyük yüz ölçümüne sahip ülkesi hangisidir?",
+      "options": [
+        "Çin",
+        "Kanada",
+        "Amerika Birleşik Devletleri",
+        "Rusya",
+        "Brezilya"
+      ],
+      "correctAnswer": "Rusya"
+    },
+    {
+      "categoryId": 6,
+      "question": "Hangi okyanus, Amerika kıtası ile Avrupa ve Afrika kıtalarını birbirinden ayırır?",
+      "options": [
+        "Pasifik Okyanusu",
+        "Hint Okyanusu",
+        "Arktik Okyanusu",
+        "Antarktika Okyanusu",
+        "Atlas (Atlantik) Okyanusu"
+      ],
+      "correctAnswer": "Atlas (Atlantik) Okyanusu"
+    },
+    {
+      "categoryId": 6,
+      "question": "Bir yerin iklimini belirleyen en temel faktörlerden biri enlemdir. Ekvator'dan kutuplara doğru gidildikçe sıcaklığın azalması aşağıdakilerden hangisiyle doğrudan ilgilidir?",
+      "options": [
+        "Dünya'nın günlük hareketi",
+        "Denizellik ve karasallık",
+        "Güneş ışınlarının geliş açısı",
+        "Yer şekillerinin uzanışı",
+        "Yükselti farkları"
+      ],
+      "correctAnswer": "Güneş ışınlarının geliş açısı"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de 'Güneşin en erken doğduğu' ilimiz aşağıdakilerden hangisidir?",
+      "options": [
+        "Ağrı",
+        "Iğdır",
+        "Kars",
+        "Hakkari",
+        "Van"
+      ],
+      "correctAnswer": "Iğdır"
+    },
+    {
+      "categoryId": 6,
+      "question": "Akdeniz'i Kızıldeniz'e bağlayarak deniz ticaretinde büyük bir kısalma sağlayan yapay su yolu hangisidir?",
+      "options": [
+        "Panama Kanalı",
+        "Korint Kanalı",
+        "Kiel Kanalı",
+        "Süveyş Kanalı",
+        "Cebelitarık Boğazı"
+      ],
+      "correctAnswer": "Süveyş Kanalı"
+    },
+    {
+      "categoryId": 6,
+      "question": "Aşağıdaki ülkelerden hangisinin Büyük Okyanus'a (Pasifik) kıyısı bulunmaz?",
+      "options": [
+        "Japonya",
+        "Şili",
+        "Avustralya",
+        "Brezilya",
+        "Kanada"
+      ],
+      "correctAnswer": "Brezilya"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en az yağış alan ve en kurak kıtası olarak bilinen yer hangisidir?",
+      "options": [
+        "Afrika",
+        "Asya",
+        "Avustralya",
+        "Antarktika",
+        "Güney Amerika"
+      ],
+      "correctAnswer": "Antarktika"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin yedi coğrafi bölgesinden biri olan ve en fazla orman varlığına sahip bölge hangisidir?",
+      "options": [
+        "Ege Bölgesi",
+        "Marmara Bölgesi",
+        "Karadeniz Bölgesi",
+        "Akdeniz Bölgesi",
+        "İç Anadolu Bölgesi"
+      ],
+      "correctAnswer": "Karadeniz Bölgesi"
+    },
+    {
+      "categoryId": 6,
+      "question": "Güney Amerika'nın batı kıyıları boyunca uzanan ve dünyanın en uzun sıradağ kütlesi kabul edilen dağlar hangisidir?",
+      "options": [
+        "Kayalık Dağları",
+        "Alpler",
+        "Ural Dağları",
+        "And Dağları",
+        "Atlas Dağları"
+      ],
+      "correctAnswer": "And Dağları"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en büyük adası olarak bilinen ve büyük bir kısmı buzullarla kaplı olan yer neresidir?",
+      "options": [
+        "İzlanda",
+        "Madagaskar",
+        "Grönland",
+        "Küba",
+        "Japonya"
+      ],
+      "correctAnswer": "Grönland"
+    },
+    {
+      "categoryId": 6,
+      "question": "Atmosferin en alt katmanı olan ve hava olaylarının (yağmur, rüzgar vb.) neredeyse tamamının gerçekleştiği katman hangisidir?",
+      "options": [
+        "Stratosfer",
+        "Mezosfer",
+        "Troposfer",
+        "Termosfer",
+        "Ekzosfer"
+      ],
+      "correctAnswer": "Troposfer"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin en büyük deltası olan ve Seyhan ile Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşan ova hangisidir?",
+      "options": [
+        "Bafra Ovası",
+        "Çarşamba Ovası",
+        "Konya Ovası",
+        "Çukurova",
+        "Gediz Ovası"
+      ],
+      "correctAnswer": "Çukurova"
+    },
+    {
+      "categoryId": 6,
+      "question": "Japonya, Endonezya ve Filipinler gibi ülkelerin sık sık büyük depremler ve volkanik patlamalarla karşılaşmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Ada ülkesi olmaları",
+        "Okyanus kıyısında yer almaları",
+        "Levha sınırlarında (ateş çemberi) bulunmaları",
+        "Bitki örtüsünün zayıf olması",
+        "Yükseltinin fazla olması"
+      ],
+      "correctAnswer": "Levha sınırlarında (ateş çemberi) bulunmaları"
+    },
+    {
+      "categoryId": 6,
+      "question": "Güney Yarımküre'de en uzun gündüzün yaşandığı tarih hangisidir?",
+      "options": [
+        "21 Mart",
+        "21 Haziran",
+        "23 Eylül",
+        "21 Aralık",
+        "1 Ocak"
+      ],
+      "correctAnswer": "21 Aralık"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en tuzlu denizi hangisidir?",
+      "options": [
+        "Akdeniz",
+        "Kızıldeniz",
+        "Karadeniz",
+        "Hazar Denizi",
+        "Baltık Denizi"
+      ],
+      "correctAnswer": "Kızıldeniz"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de kış turizminin en önemli merkezlerinden biri olan Uludağ, hangi ilimizin sınırları içerisindedir?",
+      "options": [
+        "Bolu",
+        "Erzurum",
+        "Kayseri",
+        "Bursa",
+        "Kocaeli"
+      ],
+      "correctAnswer": "Bursa"
+    },
+    {
+      "categoryId": 6,
+      "question": "Hangi ülke, hem Avrupa hem de Asya kıtasında toprağı bulunan iki ülkeden biridir?",
+      "options": [
+        "Rusya",
+        "Kazakistan",
+        "Azerbaycan",
+        "Türkiye",
+        "Hepsi"
+      ],
+      "correctAnswer": "Hepsi"
+    },
+    {
+      "categoryId": 6,
+      "question": "Amazon Ormanları, biyoçeşitliliğin en fazla olduğu yerdir. Bu ormanlar ağırlıklı olarak hangi ülkenin sınırları içerisindedir?",
+      "options": [
+        "Arjantin",
+        "Brezilya",
+        "Şili",
+        "Kolombiya",
+        "Venezuela"
+      ],
+      "correctAnswer": "Brezilya"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünya'nın şeklinden dolayı Ekvator'dan kutuplara doğru gidildikçe değişen özelliklerden biri değildir?",
+      "options": [
+        "Yerçekimi",
+        "Gölge boyu",
+        "Dünya'nın çizgisel hızı",
+        "Denizlerin tuzluluk oranı",
+        "Yerel saat farkları"
+      ],
+      "correctAnswer": "Yerel saat farkları"
+    },
+    {
+      "categoryId": 6,
+      "question": "Afrika'yı Avrupa'dan ayıran ve her iki yakasında Fas ile İspanya'nın bulunduğu boğaz hangisidir?",
+      "options": [
+        "Bering Boğazı",
+        "Malakka Boğazı",
+        "Cebelitarık Boğazı",
+        "Hürmüz Boğazı",
+        "Babülmendep Boğazı"
+      ],
+      "correctAnswer": "Cebelitarık Boğazı"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin en küçük coğrafi bölgesi hangisidir?",
+      "options": [
+        "Güneydoğu Anadolu",
+        "Marmara",
+        "Ege",
+        "İç Anadolu",
+        "Doğu Anadolu"
+      ],
+      "correctAnswer": "Güneydoğu Anadolu"
+    },
+    {
+      "categoryId": 6,
+      "question": "Hangi iklim tipinde her mevsim yağışlıdır ve bitki örtüsü gür ormanlardan oluşur?",
+      "options": [
+        "Akdeniz İklimi",
+        "Muson İklimi",
+        "Ekvatoral İklim",
+        "Step İklimi",
+        "Tundra İklimi"
+      ],
+      "correctAnswer": "Ekvatoral İklim"
+    },
+    {
+      "categoryId": 6,
+      "question": "Bir haritanın ölçeği küçüldükçe aşağıdakilerden hangisi gerçekleşir?",
+      "options": [
+        "Ayrıntıyı gösterme gücü artar",
+        "Hata oranı azalır",
+        "Gösterilen alan genişler",
+        "Kuzey oku uzar",
+        "Düzlem küçülür"
+      ],
+      "correctAnswer": "Gösterilen alan genişler"
+    },
+    {
+      "categoryId": 6,
+      "question": "Asya ile Amerika kıtalarını birbirine en çok yaklaştıran boğaz hangisidir?",
+      "options": [
+        "Macellan Boğazı",
+        "Dover Boğazı",
+        "Bering Boğazı",
+        "Malakka Boğazı",
+        "Hürmüz Boğazı"
+      ],
+      "correctAnswer": "Bering Boğazı"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de rüzgar enerjisi potansiyelinin en yüksek olduğu bölge hangisidir?",
+      "options": [
+        "Ege Bölgesi",
+        "Akdeniz Bölgesi",
+        "Karadeniz Bölgesi",
+        "Güneydoğu Anadolu",
+        "Doğu Anadolu"
+      ],
+      "correctAnswer": "Ege Bölgesi"
+    },
+    {
+      "categoryId": 6,
+      "question": "Meksika Körfezi'nden doğup Avrupa'nın batı kıyılarına kadar ulaşan ve buraların iklimini yumuşatan sıcak su akıntısı hangisidir?",
+      "options": [
+        "Oyaşivo",
+        "Kuroşivo",
+        "Labrador",
+        "Gulf Stream",
+        "Humboldt"
+      ],
+      "correctAnswer": "Gulf Stream"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de çay tarımının neredeyse tamamının Doğu Karadeniz'de yapılmasının temel nedeni nedir?",
+      "options": [
+        "Yükseltinin fazla olması",
+        "Kış ılıklığı ve her mevsim yağış isteği",
+        "Toprağın alüvyonlu olması",
+        "Nüfusun yoğun olması",
+        "Ulaşım imkanları"
+      ],
+      "correctAnswer": "Kış ılıklığı ve her mevsim yağış isteği"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en geniş gölü (deniz olarak da adlandırılır) hangisidir?",
+      "options": [
+        "Victoria Gölü",
+        "Baykal Gölü",
+        "Superior Gölü",
+        "Hazar Denizi",
+        "Lut Gölü"
+      ],
+      "correctAnswer": "Hazar Denizi"
+    },
+    {
+      "categoryId": 6,
+      "question": "İskandinav Yarımadası'ndaki ülkelerden biri değildir?",
+      "options": [
+        "Norveç",
+        "İsveç",
+        "Finlandiya",
+        "Danimarka",
+        "İsviçre"
+      ],
+      "correctAnswer": "İsviçre"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin 'Sakin Şehir' (Cittaslow) unvanını alan ilk yerleşimi neresidir?",
+      "options": [
+        "Gökçeada",
+        "Akyaka",
+        "Seferihisar",
+        "Taraklı",
+        "Eğirdir"
+      ],
+      "correctAnswer": "Seferihisar"
+    },
+    {
+      "categoryId": 6,
+      "question": "Atmosferdeki su buharının doğrudan buz kristallerine dönüşerek yere düşmesine ne ad verilir?",
+      "options": [
+        "Yağmur",
+        "Dolu",
+        "Kar",
+        "Çisenti",
+        "Sis"
+      ],
+      "correctAnswer": "Kar"
+    },
+    {
+      "categoryId": 6,
+      "question": "Hangi ülke tamamen bir ada ülkesidir?",
+      "options": [
+        "Vietnam",
+        "Tayland",
+        "Endonezya",
+        "Güney Kore",
+        "İspanya"
+      ],
+      "correctAnswer": "Endonezya"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de doğalgazın en çok çıkarıldığı yer neresidir?",
+      "options": [
+        "Batman",
+        "Zonguldak",
+        "Kırklareli (Hamitabat)",
+        "Manisa",
+        "Adana"
+      ],
+      "correctAnswer": "Kırklareli (Hamitabat)"
+    },
+    {
+      "categoryId": 6,
+      "question": "Orta kuşakta yer alan bir bölgede dört mevsimin belirgin olarak yaşanmasının temel sebebi nedir?",
+      "options": [
+        "Dünya'nın eksen eğikliği",
+        "Dünya'nın kendi ekseni etrafında dönmesi",
+        "Dünya'nın kutuplardan basık olması",
+        "Yer şekillerinin çeşitliliği",
+        "Okyanus akıntıları"
+      ],
+      "correctAnswer": "Dünya'nın eksen eğikliği"
+    },
+    {
+      "categoryId": 6,
+      "question": "Avustralya kıtasının kendine has hayvanlarından biri olan kanguru, hangi biyomda yaygın olarak görülür?",
+      "options": [
+        "Tundra",
+        "Tayga",
+        "Savan",
+        "Çöl",
+        "Ilıman Çayır"
+      ],
+      "correctAnswer": "Savan"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de volkanik faaliyetler sonucunda oluşan Nemrut, Süphan, Tendürek ve Ağrı dağları hangi bölgemizdedir?",
+      "options": [
+        "İç Anadolu",
+        "Doğu Anadolu",
+        "Güneydoğu Anadolu",
+        "Ege",
+        "Karadeniz"
+      ],
+      "correctAnswer": "Doğu Anadolu"
+    },
+    {
+      "categoryId": 6,
+      "question": "Haritalarda yükseltiyi göstermek için kullanılan renklerden 'Yeşil' renk hangi yükselti aralığını temsil eder?",
+      "options": [
+        "0 - 500 metre",
+        "500 - 1000 metre",
+        "1000 - 1500 metre",
+        "1500 - 2000 metre",
+        "2000 metre üstü"
+      ],
+      "correctAnswer": "0 - 500 metre"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en derin gölü olarak bilinen ve Sibirya'da yer alan göl hangisidir?",
+      "options": [
+        "Lut Gölü",
+        "Erie Gölü",
+        "Baykal Gölü",
+        "Tanganyika Gölü",
+        "Huron Gölü"
+      ],
+      "correctAnswer": "Baykal Gölü"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de güneş enerjisinden faydalanma potansiyelinin en düşük olduğu bölge hangisidir?",
+      "options": [
+        "Güneydoğu Anadolu",
+        "Akdeniz",
+        "İç Anadolu",
+        "Doğu Karadeniz",
+        "Ege"
+      ],
+      "correctAnswer": "Doğu Karadeniz"
+    },
+    {
+      "categoryId": 6,
+      "question": "Bir bölgenin gerçek alanı ile izdüşüm alanı arasındaki farkın fazla olması neyi gösterir?",
+      "options": [
+        "Nüfusun yoğun olduğunu",
+        "İklimin sert olduğunu",
+        "Arazinin engebeli ve dağlık olduğunu",
+        "Tarım alanlarının geniş olduğunu",
+        "Ulaşımın gelişmiş olduğunu"
+      ],
+      "correctAnswer": "Arazinin engebeli ve dağlık olduğunu"
+    },
+    {
+      "categoryId": 6,
+      "question": "Kuzey kutup noktasına en yakın olan ülke aşağıdakilerden hangisidir?",
+      "options": [
+        "Norveç",
+        "Kanada",
+        "Rusya",
+        "Danimarka (Grönland)",
+        "İzlanda"
+      ],
+      "correctAnswer": "Danimarka (Grönland)"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'de 'Kıble' rüzgarı hangi yönden eser?",
+      "options": [
+        "Kuzeybatı",
+        "Kuzeydoğu",
+        "Güney",
+        "Güneydoğu",
+        "Güneybatı"
+      ],
+      "correctAnswer": "Güney"
+    },
+    {
+      "categoryId": 6,
+      "question": "Ganj ve İndus nehirleri hangi ülkede yer alır?",
+      "options": [
+        "Çin",
+        "Hindistan",
+        "Mısır",
+        "Irak",
+        "İran"
+      ],
+      "correctAnswer": "Hindistan"
+    },
+    {
+      "categoryId": 6,
+      "question": "Akdeniz ikliminin karakteristik bitki örtüsü hangisidir?",
+      "options": [
+        "Bozkır",
+        "Maki",
+        "Tundra",
+        "Savan",
+        "Muson ormanları"
+      ],
+      "correctAnswer": "Maki"
+    },
+    {
+      "categoryId": 6,
+      "question": "Yaz aylarında Hindistan ve çevresinde aşırı yağışlara ve sellere neden olan rüzgarlar hangisidir?",
+      "options": [
+        "Alizeler",
+        "Batı Rüzgarları",
+        "Muson Rüzgarları",
+        "Kutup Rüzgarları",
+        "Fön Rüzgarları"
+      ],
+      "correctAnswer": "Muson Rüzgarları"
+    },
+    {
+      "categoryId": 6,
+      "question": "Türkiye'nin Asya topraklarına verilen genel ad nedir?",
+      "options": [
+        "Trakya",
+        "Mezopotamya",
+        "Anadolu",
+        "Rumeli",
+        "Kafkasya"
+      ],
+      "correctAnswer": "Anadolu"
+    },
+    {
+      "categoryId": 6,
+      "question": "Dünyanın en küçük kıtası hangisidir?",
+      "options": [
+        "Avrupa",
+        "Antarktika",
+        "Okyanusya (Avustralya)",
+        "Güney Amerika",
+        "Kuzey Amerika"
+      ],
+      "correctAnswer": "Okyanusya (Avustralya)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Sinema tarihinin en iyi filmleri arasında gösterilen 'Baba' (The Godfather) filminde 'Don Vito Corleone' karakterine hayat veren efsanevi oyuncu kimdir?",
+      "options": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Marlon Brando",
+        "Jack Nicholson",
+        "Dustin Hoffman"
+      ],
+      "correctAnswer": "Marlon Brando"
+    },
+    {
+      "categoryId": 7,
+      "question": "1895 yılında bir trenin gara girişini filme alarak sinema tarihinin ilk halka açık gösterimini gerçekleştiren kardeşler kimdir?",
+      "options": [
+        "Wright Kardeşler",
+        "Lumiere Kardeşler",
+        "Grimm Kardeşler",
+        "Coen Kardeşler",
+        "Wachowski Kardeşler"
+      ],
+      "correctAnswer": "Lumiere Kardeşler"
+    },
+    {
+      "categoryId": 7,
+      "question": "Christopher Nolan tarafından yönetilen, rüya içinde rüya görme temasını işleyen ve karmaşık yapısıyla bilinen 2010 yapımı film hangisidir?",
+      "options": [
+        "Interstellar",
+        "Tenet",
+        "Inception",
+        "Dunkirk",
+        "The Prestige"
+      ],
+      "correctAnswer": "Inception"
+    },
+    {
+      "categoryId": 7,
+      "question": "Türk sinemasının (Yeşilçam) unutulmaz eseri 'Hababam Sınıfı' serisinin yazarı olan ve aynı zamanda 'Rıfat Ilgaz' tarafından kaleme alınan bu eserin başrolündeki 'Mahmut Hoca' karakterini kim canlandırmıştır?",
+      "options": [
+        "Kemal Sunal",
+        "Halit Akçatepe",
+        "Tarık Akan",
+        "Münir Özkul",
+        "Adile Naşit"
+      ],
+      "correctAnswer": "Münir Özkul"
+    },
+    {
+      "categoryId": 7,
+      "question": "Akademi Ödülleri (Oscar) tarihinde 11 dalda ödül kazanarak rekoru elinde bulunduran üç filmden biri hangisidir?",
+      "options": [
+        "Baba",
+        "Schindler'in Listesi",
+        "Titanic",
+        "Pulp Fiction",
+        "Guguk Kuşu"
+      ],
+      "correctAnswer": "Titanic"
+    },
+    {
+      "categoryId": 7,
+      "question": "Tom Hanks'in canlandırdığı karakterin 'Hayat bir kutu çikolata gibidir, içinden ne çıkacağını asla bilemezsin' repliğiyle özdeşleşen film hangisidir?",
+      "options": [
+        "Forrest Gump",
+        "Yeni Hayat",
+        "Er Ryan'ı Kurtarmak",
+        "Yeşil Yol",
+        "Terminal"
+      ],
+      "correctAnswer": "Forrest Gump"
+    },
+    {
+      "categoryId": 7,
+      "question": "Gerilim türünün ustası Alfred Hitchcock'un, duş sahnesiyle sinema tarihine damga vuran 1960 yapımı siyah-beyaz filmi hangisidir?",
+      "options": [
+        "Vertigo",
+        "Sapık (Psycho)",
+        "Arka Pencere",
+        "Kuşlar",
+        "Kuzey Kuzeybatı"
+      ],
+      "correctAnswer": "Sapık (Psycho)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Quentin Tarantino'nun yönettiği, kronolojik olmayan anlatımı ve efsanevi dans sahnesiyle bilinen kült film hangisidir?",
+      "options": [
+        "Rezervuar Köpekleri",
+        "Ucuz Roman (Pulp Fiction)",
+        "Kill Bill",
+        "Zincirsiz",
+        "Soysuzlar Çetesi"
+      ],
+      "correctAnswer": "Ucuz Roman (Pulp Fiction)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Star Wars (Yıldız Savaşları) serisinde 'Luke, ben senin babanım' repliğini söyleyen ikonik kötü karakter kimdir?",
+      "options": [
+        "Darth Maul",
+        "Kylo Ren",
+        "Darth Vader",
+        "Palpatine",
+        "Boba Fett"
+      ],
+      "correctAnswer": "Darth Vader"
+    },
+    {
+      "categoryId": 7,
+      "question": "Harry Potter serisinde öğrencilerin Hogwarts Ekspresi'ne binmek için Londra'daki King's Cross İstasyonu'nda kullandıkları peron numarası kaçtır?",
+      "options": [
+        "7 1/4",
+        "8 1/2",
+        "9 3/4",
+        "10",
+        "11"
+      ],
+      "correctAnswer": "9 3/4"
+    },
+    {
+      "categoryId": 7,
+      "question": "2019 yılında 'En İyi Film' Oscar'ını kazanarak bu ödülü alan ilk İngilizce olmayan film olarak tarihe geçen Güney Kore yapımı film hangisidir?",
+      "options": [
+        "Oldboy",
+        "Parazit",
+        "Hizmetçi",
+        "Burning",
+        "Zombi Ekspresi"
+      ],
+      "correctAnswer": "Parazit"
+    },
+    {
+      "categoryId": 7,
+      "question": "Matrix filminde Morpheus'un Neo'ya sunduğu iki hap rengi hangileridir?",
+      "options": [
+        "Sarı ve Yeşil",
+        "Siyah ve Beyaz",
+        "Kırmızı ve Mavi",
+        "Turuncu ve Mor",
+        "Kırmızı ve Sarı"
+      ],
+      "correctAnswer": "Kırmızı ve Mavi"
+    },
+    {
+      "categoryId": 7,
+      "question": "Jim Carrey'nin, tüm hayatının devasa bir setin içinde bir televizyon programı olarak yayınlandığını fark eden bir adamı canlandırdığı film hangisidir?",
+      "options": [
+        "Maske",
+        "Aman Tanrım",
+        "Truman Show",
+        "Sil Baştan",
+        "Bay Evet"
+      ],
+      "correctAnswer": "Truman Show"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hayao Miyazaki tarafından yönetilen ve 'En İyi Animasyon' Oscar'ını kazanan, küçük bir kızın fantastik bir dünyadaki macerasını anlatan film hangisidir?",
+      "options": [
+        "Komşum Totoro",
+        "Ruhların Kaçışı (Spirited Away)",
+        "Prenses Mononoke",
+        "Yürüyen Şato",
+        "Küçük Deniz Kızı Ponyo"
+      ],
+      "correctAnswer": "Ruhların Kaçışı (Spirited Away)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Nuri Bilge Ceylan'a Cannes Film Festivali'nde 'Altın Palmiye' kazandıran başyapıtı hangisidir?",
+      "options": [
+        "Uzak",
+        "Bir Zamanlar Anadolu'da",
+        "Kış Uykusu",
+        "Ahlat Ağacı",
+        "Üç Maymun"
+      ],
+      "correctAnswer": "Kış Uykusu"
+    },
+    {
+      "categoryId": 7,
+      "question": "Dünya tarihinin en yüksek hasılat yapan filmi olma unvanını uzun süre elinde bulunduran ve Pandora gezegeninde geçen hikayeyi anlatan James Cameron filmi hangisidir?",
+      "options": [
+        "Titanic",
+        "Avatar",
+        "Terminatör",
+        "Aliens",
+        "The Abyss"
+      ],
+      "correctAnswer": "Avatar"
+    },
+    {
+      "categoryId": 7,
+      "question": "Charlie Chaplin'in ilk sesli filmi olan ve Adolf Hitler'i parodi yoluyla sertçe eleştirdiği sinema eseri hangisidir?",
+      "options": [
+        "Modern Zamanlar",
+        "Şehir Işıkları",
+        "Büyük Diktatör",
+        "Altına Hücum",
+        "Yumurcak"
+      ],
+      "correctAnswer": "Büyük Diktatör"
+    },
+    {
+      "categoryId": 7,
+      "question": "Yüzüklerin Efendisi serisinde, Yüzük Kardeşliği'nin yüzüğü yok etmek için gitmesi gereken yer hangisidir?",
+      "options": [
+        "Ayrıkvadi",
+        "Miğfer Dibi",
+        "Hüküm Dağı (Mount Doom)",
+        "Gondor",
+        "Lothlorien"
+      ],
+      "correctAnswer": "Hüküm Dağı (Mount Doom)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Sinema tarihinin ilk uzun metrajlı, tamamen bilgisayar ortamında hazırlanmış (CGI) animasyon filmi hangisidir?",
+      "options": [
+        "Aslan Kral",
+        "Shrek",
+        "Oyuncak Hikayesi (Toy Story)",
+        "Buz Devri",
+        "Kayıp Balık Nemo"
+      ],
+      "correctAnswer": "Oyuncak Hikayesi (Toy Story)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Yeşilçam'da 'Selvi Boylum Al Yazmalım' filminde başrolleri Kadir İnanır ile paylaşan, 'Asya' karakteriyle hafızalara kazınan oyuncu kimdir?",
+      "options": [
+        "Hülya Koçyiğit",
+        "Filiz Akın",
+        "Türkan Şoray",
+        "Fatma Girik",
+        "Gülşen Bubikoğlu"
+      ],
+      "correctAnswer": "Türkan Şoray"
+    },
+    {
+      "categoryId": 7,
+      "question": "Stephen King'in bir romanından uyarlanan, bir hapishanede geçen ve haksız yere hapse atılan Andy Dufresne'in hikayesini anlatan IMDB puanı en yüksek film hangisidir?",
+      "options": [
+        "Yeşil Yol",
+        "Esaretin Bedeli",
+        "Baba",
+        "Kuzuların Sessizliği",
+        "Dövüş Kulübü"
+      ],
+      "correctAnswer": "Esaretin Bedeli"
+    },
+    {
+      "categoryId": 7,
+      "question": "Marvel Sinematik Evreni'nin (MCU) başlattığı kabul edilen 2008 yapımı ilk film hangisidir?",
+      "options": [
+        "Kaptan Amerika",
+        "Thor",
+        "Iron Man",
+        "Hulk",
+        "Yenilmezler"
+      ],
+      "correctAnswer": "Iron Man"
+    },
+    {
+      "categoryId": 7,
+      "question": "Heath Ledger'ın 'Joker' performansı ile 'En İyi Yardımcı Erkek Oyuncu' Oscar'ını kazandığı Batman filmi hangisidir?",
+      "options": [
+        "Batman Başlıyor",
+        "Kara Şövalye",
+        "Kara Şövalye Yükseliyor",
+        "Adalet Birliği",
+        "Batman v Superman"
+      ],
+      "correctAnswer": "Kara Şövalye"
+    },
+    {
+      "categoryId": 7,
+      "question": "Geleceğe Dönüş (Back to the Future) filminde zaman yolculuğu yapmak için kullanılan otomobil markası ve modeli nedir?",
+      "options": [
+        "Ferrari F40",
+        "Lamborghini Countach",
+        "DeLorean DMC-12",
+        "Ford Mustang",
+        "Chevrolet Corvette"
+      ],
+      "correctAnswer": "DeLorean DMC-12"
+    },
+    {
+      "categoryId": 7,
+      "question": "Steven Spielberg'in yönettiği, devasa bir beyaz köpekbalığının bir sahil kasabasını tehdit etmesini konu alan, 'blockbuster' kavramını başlatan film hangisidir?",
+      "options": [
+        "E.T.",
+        "Jurassic Park",
+        "Jaws",
+        "Schindler'in Listesi",
+        "Er Ryan'ı Kurtarmak"
+      ],
+      "correctAnswer": "Jaws"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hangi filmde Brad Pitt ve Edward Norton, tüketim toplumuna karşı 'sabun' üreten bir yeraltı örgütü kurarlar?",
+      "options": [
+        "Yedi (Se7en)",
+        "Dövüş Kulübü (Fight Club)",
+        "Babil",
+        "Kapışma",
+        "Kazanma Sanatı"
+      ],
+      "correctAnswer": "Dövüş Kulübü (Fight Club)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Natalie Portman'ın bir balerini canlandırdığı ve performansı ile Oscar kazandığı psikolojik gerilim filmi hangisidir?",
+      "options": [
+        "Siyah Kuğu (Black Swan)",
+        "Leon",
+        "V for Vendetta",
+        "Yıldız Savaşları",
+        "Jackie"
+      ],
+      "correctAnswer": "Siyah Kuğu (Black Swan)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Jean Reno ve Gary Oldman'ın başrollerini paylaştığı, bir kiralık katil ile ailesini kaybeden küçük bir kızın (Natalie Portman) hikayesini anlatan film hangisidir?",
+      "options": [
+        "Leon: Sevginin Gücü",
+        "Beşinci Element",
+        "Nikita",
+        "Lucy",
+        "Taksi"
+      ],
+      "correctAnswer": "Leon: Sevginin Gücü"
+    },
+    {
+      "categoryId": 7,
+      "question": "Animasyon dünyasının devlerinden Pixar'ın, konuşamayan bir çöp toplama robotunun uzaydaki macerasını anlatan duygusal filmi hangisidir?",
+      "options": [
+        "Yukarı Bak (Up)",
+        "Ratatuy",
+        "VOL-E",
+        "Arabalar",
+        "Ters Yüz"
+      ],
+      "correctAnswer": "VOL-E"
+    },
+    {
+      "categoryId": 7,
+      "question": "Türk sinemasında Berlin Film Festivali'nden 'Altın Ayı' ödülünü kazanan ilk film hangisidir?",
+      "options": [
+        "Yol",
+        "Susuz Yaz",
+        "Duvara Karşı",
+        "Bal",
+        "Sivas"
+      ],
+      "correctAnswer": "Susuz Yaz"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hangi yönetmen 'Pulp Fiction', 'Kill Bill' ve 'Django Unchained' gibi filmleriyle şiddeti estetik bir biçimde kullanmasıyla tanınır?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": "Quentin Tarantino"
+    },
+    {
+      "categoryId": 7,
+      "question": "Kuzuların Sessizliği filminde 'Hannibal Lecter' karakterini canlandırarak sadece 16 dakika görünmesine rağmen 'En İyi Erkek Oyuncu' Oscar'ını kazanan kimdir?",
+      "options": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Anthony Hopkins",
+        "Morgan Freeman",
+        "Kevin Spacey"
+      ],
+      "correctAnswer": "Anthony Hopkins"
+    },
+    {
+      "categoryId": 7,
+      "question": "12 Kızgın Adam (12 Angry Men) filminin neredeyse tamamı hangi mekanda geçmektedir?",
+      "options": [
+        "Hapishane",
+        "Mahkeme Salonu",
+        "Jüri Odası",
+        "Polis Merkezi",
+        "Ev"
+      ],
+      "correctAnswer": "Jüri Odası"
+    },
+    {
+      "categoryId": 7,
+      "question": "Gülşah Film tarafından çekilen ve Kemal Sunal'ın 'Şaban' karakteriyle bir gulyabaniyi kovaladığı meşhur Yeşilçam komedisi hangisidir?",
+      "options": [
+        "Tosun Paşa",
+        "Süt Kardeşler",
+        "Şabanoğlu Şaban",
+        "Kibar Feyzo",
+        "Çöpçüler Kralı"
+      ],
+      "correctAnswer": "Süt Kardeşler"
+    },
+    {
+      "categoryId": 7,
+      "question": "Ridley Scott tarafından yönetilen, Russell Crowe'un bir Roma generalinden köleye dönüşen karakterini anlatan film hangisidir?",
+      "options": [
+        "Truva",
+        "Cennetin Krallığı",
+        "Gladyatör",
+        "300 Spartalı",
+        "Büyük İskender"
+      ],
+      "correctAnswer": "Gladyatör"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hangi film 'İlk sesli film' (The Jazz Singer) olarak sinema tarihine geçmiştir?",
+      "options": [
+        "Vatandaş Kane",
+        "Rüzgar Gibi Geçti",
+        "Caz Şarkıcısı",
+        "Modern Zamanlar",
+        "Kazablanka"
+      ],
+      "correctAnswer": "Caz Şarkıcısı"
+    },
+    {
+      "categoryId": 7,
+      "question": "Interstellar filminde uzay yolculuğu sırasında bir saatlik sürenin Dünya'da yedi yıla bedel olduğu gezegen hangisidir?",
+      "options": [
+        "Mann'ın Gezegeni",
+        "Edmunds'un Gezegeni",
+        "Miller'ın Gezegeni",
+        "Satürn",
+        "Mars"
+      ],
+      "correctAnswer": "Miller'ın Gezegeni"
+    },
+    {
+      "categoryId": 7,
+      "question": "David Fincher'ın yönettiği, yedi ölümcül günahı işleyen bir seri katilin peşindeki iki dedektifi anlatan film hangisidir?",
+      "options": [
+        "Zodiac",
+        "Yedi (Se7en)",
+        "Oyun",
+        "Dövüş Kulübü",
+        "Sosyal Ağ"
+      ],
+      "correctAnswer": "Yedi (Se7en)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Büyük Budapeşte Oteli ve Moonrise Kingdom gibi filmleriyle simetrik çekimleri ve kendine has renk paletiyle tanınan yönetmen kimdir?",
+      "options": [
+        "Wes Anderson",
+        "Tim Burton",
+        "Greta Gerwig",
+        "Woody Allen",
+        "Guillermo del Toro"
+      ],
+      "correctAnswer": "Wes Anderson"
+    },
+    {
+      "categoryId": 7,
+      "question": "Yüzüklerin Efendisi serisinde 'Kıymetlimiss' diyerek yüzüğün peşinden koşan karakterin asıl adı nedir?",
+      "options": [
+        "Gollum",
+        "Smeagol",
+        "Frodo",
+        "Bilbo",
+        "Saruman"
+      ],
+      "correctAnswer": "Smeagol"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hangi filmde bir piyanist olan Wladyslaw Szpilman'ın İkinci Dünya Savaşı sırasında Varşova'da hayatta kalma mücadelesi anlatılır?",
+      "options": [
+        "Schindler'in Listesi",
+        "Piyanist",
+        "Hayat Güzeldir",
+        "Çizgili Pijamalı Çocuk",
+        "Soysuzlar Çetesi"
+      ],
+      "correctAnswer": "Piyanist"
+    },
+    {
+      "categoryId": 7,
+      "question": "James Bond serisinin ilk filminde (Dr. No) '007' kod adlı ajanı canlandıran aktör kimdir?",
+      "options": [
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Sean Connery",
+        "Timothy Dalton"
+      ],
+      "correctAnswer": "Sean Connery"
+    },
+    {
+      "categoryId": 7,
+      "question": "Frank Darabont'un yönettiği, devasa bir siyahi adamın (John Coffey) mucizelerini ve idam sırasındaki hikayesini anlatan film hangisidir?",
+      "options": [
+        "Esaretin Bedeli",
+        "Yeşil Yol",
+        "Ölü Ozanlar Derneği",
+        "Er Ryan'ı Kurtarmak",
+        "Akıl Oyunları"
+      ],
+      "correctAnswer": "Yeşil Yol"
+    },
+    {
+      "categoryId": 7,
+      "question": "Hangi efsanevi yönetmen 'Jaws', 'E.T.', 'Jurassic Park' ve 'Schindler'in Listesi' gibi filmlere imza atmıştır?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "George Lucas"
+      ],
+      "correctAnswer": "Steven Spielberg"
+    },
+    {
+      "categoryId": 7,
+      "question": "Yeşilçam'ın Sultanı Türkan Şoray'ın yönetmenliğini de yaptığı, bir baraj inşaatında geçen duygusal film hangisidir?",
+      "options": [
+        "Dila Hanım",
+        "Selvi Boylum Al Yazmalım",
+        "Baraj",
+        "Yılanı Öldürseler",
+        "Azap"
+      ],
+      "correctAnswer": "Baraj"
+    },
+    {
+      "categoryId": 7,
+      "question": "Frank Herbert'ın kült bilimkurgu serisinden uyarlanan ve Paul Atreides'in 'Arrakis' gezegenindeki mücadelesini anlatan 2021 yapımı film hangisidir?",
+      "options": [
+        "Yıldız Savaşları",
+        "Dune",
+        "Blade Runner 2049",
+        "Prometheus",
+        "Marslı"
+      ],
+      "correctAnswer": "Dune"
+    },
+    {
+      "categoryId": 7,
+      "question": "2023 yılının en çok konuşulan filmlerinden biri olan, atom bombasının babası sayılan bilim insanının hayatını anlatan film hangisidir?",
+      "options": [
+        "Oppenheimer",
+        "Barbie",
+        "Napoleon",
+        "Dolunay Katilleri",
+        "Tenet"
+      ],
+      "correctAnswer": "Oppenheimer"
+    },
+    {
+      "categoryId": 7,
+      "question": "Bir yapay zekanın (Samantha) bir adama (Theodore) aşık olduğu, gelecekte geçen romantik dram filmi hangisidir?",
+      "options": [
+        "Ex Machina",
+        "Her (Aşk)",
+        "Blade Runner",
+        "I, Robot",
+        "Wall-E"
+      ],
+      "correctAnswer": "Her (Aşk)"
+    },
+    {
+      "categoryId": 7,
+      "question": "Dünyanın en popüler film veri tabanı olan IMDB sitesinin açılımı nedir?",
+      "options": [
+        "International Movie Data Base",
+        "Internet Movie Database",
+        "Interactive Movie Digital Board",
+        "Internal Media Data Bank",
+        "International Media Digital Base"
+      ],
+      "correctAnswer": "Internet Movie Database"
+    },
+    {
+      "categoryId": 7,
+      "question": "Venedik Film Festivali'nin en büyük ödülü hangisidir?",
+      "options": [
+        "Altın Palmiye",
+        "Altın Ayı",
+        "Altın Aslan",
+        "Altın Küre",
+        "Oscar"
+      ],
+      "correctAnswer": "Altın Aslan"
+    },
+    {
+      "categoryId": 8,
+      "question": "İslam'ın beş şartından biri olan ve zengin müslümanların yılda bir kez mallarının belli bir kısmını ihtiyaç sahiplerine vermesi esasına dayanan ibadet hangisidir?",
+      "options": [
+        "Namaz",
+        "Oruç",
+        "Zekat",
+        "Hac",
+        "Kelime-i Şehadet"
+      ],
+      "correctAnswer": "Zekat"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in ilk ayetlerinin 610 yılında Hz. Muhammed'e (s.a.v.) vahyedildiği mağaranın adı nedir?",
+      "options": [
+        "Sevr Mağarası",
+        "Hira Mağarası",
+        "Ashab-ı Kehf Mağarası",
+        "Uhud Mağarası",
+        "Nur Mağarası"
+      ],
+      "correctAnswer": "Hira Mağarası"
+    },
+    {
+      "categoryId": 8,
+      "question": "İslam tarihinde 'İlk Müezzin' olarak bilinen ve güzel sesiyle tanınan sahabi kimdir?",
+      "options": [
+        "Hz. Ebu Bekir",
+        "Hz. Ömer",
+        "Bilal-i Habeşi",
+        "Zeyd bin Harise",
+        "Mus'ab bin Umeyr"
+      ],
+      "correctAnswer": "Bilal-i Habeşi"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in en uzun suresi aşağıdakilerden hangisidir?",
+      "options": [
+        "Fatiha Suresi",
+        "Yasin Suresi",
+        "Bakara Suresi",
+        "İhlas Suresi",
+        "Nas Suresi"
+      ],
+      "correctAnswer": "Bakara Suresi"
+    },
+    {
+      "categoryId": 8,
+      "question": "Müslümanların Mekke'den Medine'ye 622 yılında gerçekleştirdikleri büyük göçe ne ad verilir?",
+      "options": [
+        "Miraç",
+        "Rıhlet",
+        "Hicret",
+        "Mücahede",
+        "Veda Haccı"
+      ],
+      "correctAnswer": "Hicret"
+    },
+    {
+      "categoryId": 8,
+      "question": "İslam inancına göre; Allah tarafından görevlendirilen, tabiat olaylarını idare etmekle görevli olan melek hangisidir?",
+      "options": [
+        "Cebrail",
+        "Azrail",
+        "Mikail",
+        "İsrafil",
+        "Kiramen Katibin"
+      ],
+      "correctAnswer": "Mikail"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kurban Bayramı'nda kesilen kurbanların etlerinin dağıtılması ve yardımlaşma, İslam'ın hangi yönünü en güçlü şekilde vurgular?",
+      "options": [
+        "Bireysel ibadet",
+        "Toplumsal dayanışma",
+        "Ekonomik kazanç",
+        "Siyasi güç",
+        "Kişisel temizlik"
+      ],
+      "correctAnswer": "Toplumsal dayanışma"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in 'kalbi' olarak nitelendirilen ve Müslümanlar tarafından sıkça okunan sure hangisidir?",
+      "options": [
+        "Fatiha",
+        "İhlas",
+        "Yasin",
+        "Ayetel Kürsi",
+        "Mülk"
+      ],
+      "correctAnswer": "Yasin"
+    },
+    {
+      "categoryId": 8,
+      "question": "Dört Büyük Halife döneminin ilk halifesi kimdir?",
+      "options": [
+        "Hz. Ömer",
+        "Hz. Osman",
+        "Hz. Ali",
+        "Hz. Ebu Bekir",
+        "Hz. Hamza"
+      ],
+      "correctAnswer": "Hz. Ebu Bekir"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kelime-i Şehadet'in tam anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        "Allah birdir, namaz kılmak farzdır.",
+        "Allah'tan başka ilah olmadığına ve Hz. Muhammed'in O'nun elçisi olduğuna şahitlik ederim.",
+        "Oruç tutmak ruhu temizler.",
+        "Zekat vermek malı bereketlendirir.",
+        "Hacca gitmek günahtan arındırır."
+      ],
+      "correctAnswer": "Allah'tan başka ilah olmadığına ve Hz. Muhammed'in O'nun elçisi olduğuna şahitlik ederim."
+    },
+    {
+      "categoryId": 8,
+      "question": "Müslümanların kıblesi olan Kabe, hangi şehirde bulunmaktadır?",
+      "options": [
+        "Medine",
+        "Kudüs",
+        "Bağdat",
+        "Mekke",
+        "Şam"
+      ],
+      "correctAnswer": "Mekke"
+    },
+    {
+      "categoryId": 8,
+      "question": "İnsanların dünya hayatında yaptıkları iyilik ve kötülüklerin tartılacağı manevi teraziye ne ad verilir?",
+      "options": [
+        "Sırat",
+        "Mizan",
+        "Mahşer",
+        "Berzah",
+        "Arafat"
+      ],
+      "correctAnswer": "Mizan"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Muhammed'in (s.a.v.) geceleyin Mescid-i Haram'dan Mescid-i Aksa'ya götürülmesi ve oradan göğe yükselmesi olaylarına ne ad verilir?",
+      "options": [
+        "Hicret",
+        "Mevlid",
+        "İsra ve Miraç",
+        "Regaib",
+        "Berat"
+      ],
+      "correctAnswer": "İsra ve Miraç"
+    },
+    {
+      "categoryId": 8,
+      "question": "Abdestin farzları arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Yüzü yıkamak",
+        "Elleri dirseklerle beraber yıkamak",
+        "Başı meshetmek",
+        "Ayakları yıkamak",
+        "Kulakları yıkamak"
+      ],
+      "correctAnswer": "Kulakları yıkamak"
+    },
+    {
+      "categoryId": 8,
+      "question": "Yüce Allah'ın buyruklarını peygamberlere ulaştırmakla görevli olan vahiy meleği hangisidir?",
+      "options": [
+        "Mikail",
+        "Azrail",
+        "Cebrail",
+        "İsrafil",
+        "Rıdvan"
+      ],
+      "correctAnswer": "Cebrail"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in her 20 sayfasına verilen isim nedir?",
+      "options": [
+        "Sure",
+        "Ayet",
+        "Cüz",
+        "Hizip",
+        "Meal"
+      ],
+      "correctAnswer": "Cüz"
+    },
+    {
+      "categoryId": 3,
+      "question": "İslam'ın beş şartından biri olan namaz, günde kaç vakit olarak farz kılınmıştır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "categoryId": 8,
+      "question": "Öldükten sonra insanların tekrar dirilip Allah'ın huzurunda toplanacakları büyük alana ne ad verilir?",
+      "options": [
+        "Berzah",
+        "Mizan",
+        "Mahşer",
+        "Cennet",
+        "Araf"
+      ],
+      "correctAnswer": "Mahşer"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Muhammed'in (s.a.v.) sözlerine, davranışlarına ve sahabilerinin yaptığı davranışları onaylamasına ne ad verilir?",
+      "options": [
+        "Farz",
+        "Vacip",
+        "Sünnet",
+        "Haram",
+        "Mekruh"
+      ],
+      "correctAnswer": "Sünnet"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in 'besmele' ile başlamayan tek suresi hangisidir?",
+      "options": [
+        "Fatiha Suresi",
+        "Yasin Suresi",
+        "Tevbe Suresi",
+        "Naml Suresi",
+        "Kevser Suresi"
+      ],
+      "correctAnswer": "Tevbe Suresi"
+    },
+    {
+      "categoryId": 8,
+      "question": "Gücü yeten müslümanların ömürlerinde bir kez Kabe'yi ziyaret etmeleri ve Arafat'ta vakfe yapmaları şeklinde gerçekleştirilen ibadet hangisidir?",
+      "options": [
+        "Umre",
+        "Hac",
+        "Zekat",
+        "Fitre",
+        "Sadaka"
+      ],
+      "correctAnswer": "Hac"
+    },
+    {
+      "categoryId": 8,
+      "question": "Sözlükte 'örtmek, gizlemek' anlamına gelen, bir kimsenin inandığını söylemesine rağmen kalbiyle inanmaması durumuna ne ad verilir?",
+      "options": [
+        "Küfür",
+        "Şirk",
+        "Nifak (Münafıklık)",
+        "İhsan",
+        "İhlas"
+      ],
+      "correctAnswer": "Nifak (Münafıklık)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. İbrahim'in ateşe atıldığı ancak ateşin onu yakmadığı mucizesinin gerçekleştiği kabul edilen yer günümüzde hangi ilimizdedir?",
+      "options": [
+        "Konya",
+        "Şanlıurfa",
+        "Adıyaman",
+        "Mardin",
+        "Gaziantep"
+      ],
+      "correctAnswer": "Şanlıurfa"
+    },
+    {
+      "categoryId": 8,
+      "question": "Peygamberlerin 'güvenilir olmak' anlamına gelen sıfatı hangisidir?",
+      "options": [
+        "Sıdk",
+        "Emanet",
+        "Fetanet",
+        "İsmet",
+        "Tebliğ"
+      ],
+      "correctAnswer": "Emanet"
+    },
+    {
+      "categoryId": 8,
+      "question": "İnsanın yaptığı her türlü güzel iş ve ibadete, Allah rızası için yapılan faydalı davranışlara ne ad verilir?",
+      "options": [
+        "Sünnet",
+        "Vacip",
+        "Salih Amel",
+        "Mübah",
+        "Helal"
+      ],
+      "correctAnswer": "Salih Amel"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'de adı en çok geçen peygamber hangisidir?",
+      "options": [
+        "Hz. Muhammed",
+        "Hz. İbrahim",
+        "Hz. Musa",
+        "Hz. Yusuf",
+        "Hz. Nuh"
+      ],
+      "correctAnswer": "Hz. Musa"
+    },
+    {
+      "categoryId": 8,
+      "question": "Zengin müslümanların Ramazan ayı içerisinde bayram namazından önce vermeleri gereken, bir kişinin bir günlük doyumu kadar olan sadakaya ne ad verilir?",
+      "options": [
+        "Zekat",
+        "Sadaka-i Cariye",
+        "Fitre (Fıtır Sadakası)",
+        "Kefaret",
+        "Öşür"
+      ],
+      "correctAnswer": "Fitre (Fıtır Sadakası)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. İsa'ya indirilen ilahi kitap hangisidir?",
+      "options": [
+        "Tevrat",
+        "Zebur",
+        "İncil",
+        "Kur'an-ı Kerim",
+        "Suhuflar"
+      ],
+      "correctAnswer": "İncil"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in ayetlerini açıklayan, yorumlayan ve derinlemesine inceleyen bilim dalına ne ad verilir?",
+      "options": [
+        "Hadis",
+        "Fıkıh",
+        "Tefsir",
+        "Kelam",
+        "Siyer"
+      ],
+      "correctAnswer": "Tefsir"
+    },
+    {
+      "categoryId": 8,
+      "question": "Müslümanların Hz. Muhammed (s.a.v.) liderliğinde yaptıkları ilk büyük savaş hangisidir?",
+      "options": [
+        "Uhud Savaşı",
+        "Hendek Savaşı",
+        "Bedir Savaşı",
+        "Hayber'in Fethi",
+        "Huneyn Savaşı"
+      ],
+      "correctAnswer": "Bedir Savaşı"
+    },
+    {
+      "categoryId": 8,
+      "question": "Namaz kılarken ayakta durmaya ve Kur'an okumaya ne ad verilir?",
+      "options": [
+        "Rüku",
+        "Secde",
+        "Kıyam",
+        "Kıraat",
+        "Kade-i Ahire"
+      ],
+      "correctAnswer": "Kıyam"
+    },
+    {
+      "categoryId": 8,
+      "question": "Peygamberlerin günah işlemekten korunmuş olmalarını ifade eden sıfatları hangisidir?",
+      "options": [
+        "Sıdk",
+        "Emanet",
+        "İsmet",
+        "Fetanet",
+        "Tebliğ"
+      ],
+      "correctAnswer": "İsmet"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'in indirildiği, 'bin aydan daha hayırlı' olarak nitelendirilen mübarek gece hangisidir?",
+      "options": [
+        "Kadir Gecesi",
+        "Mevlid Kandili",
+        "Miraç Kandili",
+        "Regaib Kandili",
+        "Berat Kandili"
+      ],
+      "correctAnswer": "Kadir Gecesi"
+    },
+    {
+      "categoryId": 8,
+      "question": "Zekat verilecek malların üzerinden ne kadar süre geçmesi gerekir?",
+      "options": [
+        "6 ay",
+        "1 yıl",
+        "2 yıl",
+        "Her ay",
+        "5 yıl"
+      ],
+      "correctAnswer": "1 yıl"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Süleyman'ın hayvanlarla konuşabilme ve rüzgara hükmedebilme mucizesinin yanı sıra inşa ettirdiği meşhur mabedin adı nedir?",
+      "options": [
+        "Mescid-i Nebevi",
+        "Mescid-i Aksa (Süleyman Mabedi)",
+        "Kabe",
+        "Mescid-i Kıbleteyn",
+        "Mescid-i Kuba"
+      ],
+      "correctAnswer": "Mescid-i Aksa (Süleyman Mabedi)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Sözlükte 'yol, gidişat' anlamına gelen, Hz. Muhammed'in (s.a.v.) hayatını konu alan eserlere ne ad verilir?",
+      "options": [
+        "Fıkıh",
+        "Akaid",
+        "Siyer",
+        "Tefsir",
+        "Hadis"
+      ],
+      "correctAnswer": "Siyer"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Nuh'un büyük tufandan korunmak için inşa ettiği gemiye binenlerin kurtulması olayına Kur'an'da ne ad verilir?",
+      "options": [
+        "Feth-i Mübin",
+        "Tufan",
+        "Azab",
+        "Necat",
+        "Hicret"
+      ],
+      "correctAnswer": "Tufan"
+    },
+    {
+      "categoryId": 8,
+      "question": "Ölümden sonra başlayıp kıyamete kadar sürecek olan kabir hayatına ne ad verilir?",
+      "options": [
+        "Mizan",
+        "Berzah",
+        "Mahşer",
+        "Sırat",
+        "Ba's"
+      ],
+      "correctAnswer": "Berzah"
+    },
+    {
+      "categoryId": 8,
+      "question": "İbadetlerde sadece Allah'ın rızasını gözetmek, gösterişten uzak durmak ve samimi olmak anlamına gelen kavram hangisidir?",
+      "options": [
+        "İhsan",
+        "İhlas",
+        "Tevekkül",
+        "Sabır",
+        "Şükür"
+      ],
+      "correctAnswer": "İhlas"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Yusuf'un kardeşleri tarafından atıldığı kuyudan kurtulup Mısır'a köle olarak satılması, daha sonra ise devlet yönetimine gelmesini anlatan kıssaya Kur'an'da ne ad verilir?",
+      "options": [
+        "Kıssa-i Enbiya",
+        "Ahsenü'l-Kasas (Kıssaların en güzeli)",
+        "Kıssa-i Yusuf",
+        "Züleyha Hikayesi",
+        "Rüya Tabiri"
+      ],
+      "correctAnswer": "Ahsenü'l-Kasas (Kıssaların en güzeli)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Müslümanların üzerine düşen her türlü görevi yerine getirdikten sonra sonucu Allah'a bırakıp O'na güvenmelerine ne ad verilir?",
+      "options": [
+        "Tevekkül",
+        "Kaza",
+        "Kader",
+        "İrade",
+        "Rızık"
+      ],
+      "correctAnswer": "Tevekkül"
+    },
+    {
+      "categoryId": 8,
+      "question": "Allah'ın güzel isimlerine ne ad verilir?",
+      "options": [
+        "Akaid",
+        "Esma-i Hüsna",
+        "Sıfat-ı Zat",
+        "Vahdaniyet",
+        "Tekvin"
+      ],
+      "correctAnswer": "Esma-i Hüsna"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kur'an-ı Kerim'de adı geçen ve bir babanın oğluna verdiği öğütlerle tanınan hikmet sahibi kişi kimdir?",
+      "options": [
+        "Hz. Eyüp",
+        "Hz. Lokman",
+        "Hz. Hızır",
+        "Hz. Zülkarneyn",
+        "Hz. Şuayb"
+      ],
+      "correctAnswer": "Hz. Lokman"
+    },
+    {
+      "categoryId": 8,
+      "question": "Cuma namazı öncesinde camilerde minberden cemaate hitaben yapılan konuşmaya ne ad verilir?",
+      "options": [
+        "Vaaz",
+        "Hutbe",
+        "Dua",
+        "Tesbihat",
+        "Zikir"
+      ],
+      "correctAnswer": "Hutbe"
+    },
+    {
+      "categoryId": 8,
+      "question": "Yüce Allah'ın ezelden ebede kadar olacak her şeyi önceden bilmesi ve planlamasına 'Kader' denir. Bu planlanan olayların zamanı gelince gerçekleşmesine ne ad verilir?",
+      "options": [
+        "Rızık",
+        "Ecel",
+        "Kaza",
+        "Ömür",
+        "Hidayet"
+      ],
+      "correctAnswer": "Kaza"
+    },
+    {
+      "categoryId": 8,
+      "question": "Kişi öldükten sonra da sevabı devam eden; yol, köprü, cami, okul gibi kalıcı hayır işlerine ne ad verilir?",
+      "options": [
+        "Farz-ı Ayn",
+        "Salih Amel",
+        "Sadaka-i Cariye",
+        "Fitre",
+        "Öşür"
+      ],
+      "correctAnswer": "Sadaka-i Cariye"
+    },
+    {
+      "categoryId": 8,
+      "question": "Namazın sonunda 'Ettehiyyatü' duasını okuyacak kadar oturmaya ne ad verilir?",
+      "options": [
+        "İftitah Tekbiri",
+        "Kade-i Ahire (Son Oturuş)",
+        "Secde",
+        "Rüku",
+        "Kıyam"
+      ],
+      "correctAnswer": "Kade-i Ahire (Son Oturuş)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Hz. Muhammed'in (s.a.v.) çocukluğunda ve gençliğinde adaleti sağlamak için katıldığı topluluğun adı nedir?",
+      "options": [
+        "Hılfü'l-Fudul (Erdemliler Cemiyeti)",
+        "Darü'n-Nedve",
+        "Darü'l-Erkam",
+        "Muhacirun",
+        "Ensar"
+      ],
+      "correctAnswer": "Hılfü'l-Fudul (Erdemliler Cemiyeti)"
+    },
+    {
+      "categoryId": 8,
+      "question": "Su bulunmadığında veya suyun kullanılamadığı durumlarda temiz toprakla alınan sembolik abdeste ne ad verilir?",
+      "options": [
+        "Gusül",
+        "Teyemmüm",
+        "Mesh",
+        "Taharet",
+        "Niyet"
+      ],
+      "correctAnswer": "Teyemmüm"
+    },
+    {
+      "categoryId": 8,
+      "question": "Allah'ın zati sıfatlarından biri olan ve 'Allah'ın bir ve tek olması' anlamına gelen sıfat hangisidir?",
+      "options": [
+        "Vücud",
+        "Kıdem",
+        "Beka",
+        "Vahdaniyet",
+        "Kıyam bi-nefsihi"
+      ],
+      "correctAnswer": "Vahdaniyet"
+    },
+    {
+      "categoryId": 9,
+      "question": "Edebiyat tarihinde 'İlk modern roman' kabul edilen, Miguel de Cervantes tarafından kaleme alınan eser hangisidir?",
+      "options": [
+        "Sefiller",
+        "Suç ve Ceza",
+        "Don Kişot",
+        "Madam Bovary",
+        "İlahi Komedya"
+      ],
+      "correctAnswer": "Don Kişot"
+    },
+    {
+      "categoryId": 9,
+      "question": "Yunan mitolojisinde 'Tanrıların Kralı' olarak bilinen ve elinde bir şimşek tutan figür kimdir?",
+      "options": [
+        "Poseidon",
+        "Hades",
+        "Zeus",
+        "Apollo",
+        "Ares"
+      ],
+      "correctAnswer": "Zeus"
+    },
+    {
+      "categoryId": 9,
+      "question": "Bilgisayar biliminin babası kabul edilen, II. Dünya Savaşı sırasında 'Enigma' kodunu kıran matematikçi kimdir?",
+      "options": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Alan Turing",
+        "John von Neumann",
+        "Ada Lovelace"
+      ],
+      "correctAnswer": "Alan Turing"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dünyanın en çok konuşulan ana dili aşağıdakilerden hangisidir?",
+      "options": [
+        "İngilizce",
+        "İspanyolca",
+        "Mandarin (Çince)",
+        "Hintçe",
+        "Arapça"
+      ],
+      "correctAnswer": "Mandarin (Çince)"
+    },
+    {
+      "categoryId": 9,
+      "question": "Müzik tarihinde '9. Senfoni'yi tamamen sağır olduğu bir dönemde besteleyen dahi sanatçı kimdir?",
+      "options": [
+        "Mozart",
+        "Bach",
+        "Beethoven",
+        "Vivaldi",
+        "Chopin"
+      ],
+      "correctAnswer": "Beethoven"
+    },
+    {
+      "categoryId": 9,
+      "question": "İnsan vücudundaki en küçük kemik hangisidir ve nerede bulunur?",
+      "options": [
+        "Çekiç - Kulak",
+        "Örs - Kulak",
+        "Üzengi - Kulak",
+        "Kuyruk sokumu - Bel",
+        "El bilek kemiği"
+      ],
+      "correctAnswer": "Üzengi - Kulak"
+    },
+    {
+      "categoryId": 9,
+      "question": "1945 yılında kurulan ve dünya barışını korumayı amaçlayan uluslararası kuruluşun kısaltması nedir?",
+      "options": [
+        "NATO",
+        "AB",
+        "BM (UN)",
+        "WHO",
+        "UNICEF"
+      ],
+      "correctAnswer": "BM (UN)"
+    },
+    {
+      "categoryId": 9,
+      "question": "İnternetin atası kabul edilen ve ilk kez 1969 yılında kullanılan ağın adı nedir?",
+      "options": [
+        "World Wide Web",
+        "ARPANET",
+        "Ethernet",
+        "Intranet",
+        "TCP/IP"
+      ],
+      "correctAnswer": "ARPANET"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi element, elmasın ve kömürün temel yapı taşıdır?",
+      "options": [
+        "Oksijen",
+        "Hidrojen",
+        "Karbon",
+        "Azot",
+        "Silisyum"
+      ],
+      "correctAnswer": "Karbon"
+    },
+    {
+      "categoryId": 9,
+      "question": "Ünlü 'Düşünüyorum, öyleyse varım' (Cogito, ergo sum) sözü hangi filozofa aittir?",
+      "options": [
+        "Sokrat",
+        "Platon",
+        "Rene Descartes",
+        "Immanuel Kant",
+        "Friedrich Nietzsche"
+      ],
+      "correctAnswer": "Rene Descartes"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi ülke 'Doğan Güneşin Ülkesi' olarak adlandırılır?",
+      "options": [
+        "Güney Kore",
+        "Çin",
+        "Japonya",
+        "Tayland",
+        "Vietnam"
+      ],
+      "correctAnswer": "Japonya"
+    },
+    {
+      "categoryId": 9,
+      "question": "İlk kez 1923 yılında kurulan Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Kazım Karabekir",
+        "Adnan Menderes"
+      ],
+      "correctAnswer": "İsmet İnönü"
+    },
+    {
+      "categoryId": 9,
+      "question": "Işığın boşluktaki hızı $c$ ile gösterilir. Einstein'ın kütle-enerji eşdeğerliği formülü hangisidir?",
+      "options": [
+        "$F=ma$",
+        "$E=mc^2$",
+        "$a^2+b^2=c^2$",
+        "$V=IR$",
+        "$P=IV$"
+      ],
+      "correctAnswer": "$E=mc^2$"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dünyanın en büyük şelalesi olan Niagara Şelaleleri hangi iki ülkenin sınırında yer alır?",
+      "options": [
+        "Brezilya - Arjantin",
+        "ABD - Kanada",
+        "Venezuela - Kolombiya",
+        "Zambiya - Zimbabve",
+        "Norveç - İsveç"
+      ],
+      "correctAnswer": "ABD - Kanada"
+    },
+    {
+      "categoryId": 9,
+      "question": "Biyolojide, bir canlının tüm özelliklerini taşıyan en küçük yapı birimine ne denir?",
+      "options": [
+        "Doku",
+        "Organ",
+        "Hücre",
+        "Molekül",
+        "Sistem"
+      ],
+      "correctAnswer": "Hücre"
+    },
+    {
+      "categoryId": 9,
+      "question": "Sherlock Holmes karakterinin yaratıcısı olan İngiliz yazar kimdir?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Stephen King",
+        "Dan Brown"
+      ],
+      "correctAnswer": "Arthur Conan Doyle"
+    },
+    {
+      "categoryId": 9,
+      "question": "Bilinen en büyük köpekbalığı türü olan ve nesli tükenmiş olan dev canlıya ne ad verilir?",
+      "options": [
+        "Büyük Beyaz",
+        "Megalodon",
+        "Çekiçbaş",
+        "Balina Köpekbalığı",
+        "Boğa Köpekbalığı"
+      ],
+      "correctAnswer": "Megalodon"
+    },
+    {
+      "categoryId": 9,
+      "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' hangi antlaşma ile başlamıştır?",
+      "options": [
+        "Karlofça",
+        "İstanbul",
+        "Pasarofça",
+        "Küçük Kaynarca",
+        "Yaş"
+      ],
+      "correctAnswer": "Pasarofça"
+    },
+    {
+      "categoryId": 9,
+      "question": "Satranç tahtasında toplam kaç kare bulunur?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "81",
+        "100"
+      ],
+      "correctAnswer": "64"
+    },
+    {
+      "categoryId": 9,
+      "question": "Birleşmiş Milletler tarafından kabul edilen resmi dillerden biri değildir?",
+      "options": [
+        "İngilizce",
+        "Fransızca",
+        "Almanca",
+        "Çince",
+        "Rusça"
+      ],
+      "correctAnswer": "Almanca"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dünyanın en büyük kıtası hangisidir?",
+      "options": [
+        "Afrika",
+        "Avrupa",
+        "Asya",
+        "Antarktika",
+        "Kuzey Amerika"
+      ],
+      "correctAnswer": "Asya"
+    },
+    {
+      "categoryId": 9,
+      "question": "Kendi ismini taşıyan bir tasarım evi olan ve 'Parfüm' denilince akla gelen ünlü Fransız moda tasarımcısı kimdir?",
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Louis Vuitton",
+        "Hubert de Givenchy"
+      ],
+      "correctAnswer": "Coco Chanel"
+    },
+    {
+      "categoryId": 9,
+      "question": "Modern Türkiye'nin ilk kağıt parası hangi yılda basılmıştır?",
+      "options": [
+        "1923",
+        "1927",
+        "1930",
+        "1938",
+        "1950"
+      ],
+      "correctAnswer": "1927"
+    },
+    {
+      "categoryId": 9,
+      "question": "Atmosferdeki ozon tabakasının delinmesine neden olan temel kimyasal gaz grubu hangisidir?",
+      "options": [
+        "Karbondioksit",
+        "Metan",
+        "Kloroflorokarbon (CFC)",
+        "Oksijen",
+        "Helyum"
+      ],
+      "correctAnswer": "Kloroflorokarbon (CFC)"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dinamiti icat eden ve vasiyetiyle her yıl prestijli bilim ödüllerinin verilmesini sağlayan İsveçli mucit kimdir?",
+      "options": [
+        "Alfred Nobel",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Benjamin Franklin",
+        "James Watt"
+      ],
+      "correctAnswer": "Alfred Nobel"
+    },
+    {
+      "categoryId": 9,
+      "question": "Futbolda 'Ofsayt' kuralını ihlal etmeden en fazla gol atan ve 'Kral' lakabıyla bilinen Brezilyalı efsane kimdir?",
+      "options": [
+        "Zico",
+        "Ronaldinho",
+        "Pele",
+        "Romario",
+        "Garrincha"
+      ],
+      "correctAnswer": "Pele"
+    },
+    {
+      "categoryId": 9,
+      "question": "Güneş Sistemi'nde en sıcak gezegen hangisidir?",
+      "options": [
+        "Merkür",
+        "Venüs",
+        "Mars",
+        "Jüpiter",
+        "Satürn"
+      ],
+      "correctAnswer": "Venüs"
+    },
+    {
+      "categoryId": 9,
+      "question": "Ünlü 'Küçük Prens' kitabının yazarı kimdir?",
+      "options": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Victor Hugo",
+        "Albert Camus",
+        "Jean-Paul Sartre"
+      ],
+      "correctAnswer": "Antoine de Saint-Exupéry"
+    },
+    {
+      "categoryId": 9,
+      "question": "Bir bilgisayarda verilerin kalıcı olarak depolandığı donanım birimine ne denir?",
+      "options": [
+        "RAM",
+        "İşlemci (CPU)",
+        "Sabit Disk (HDD/SSD)",
+        "Anakart",
+        "Güç Kaynağı"
+      ],
+      "correctAnswer": "Sabit Disk (HDD/SSD)"
+    },
+    {
+      "categoryId": 9,
+      "question": "Türk lirasının simgesi ($\u20BA$) hangi yıl kabul edilmiştir?",
+      "options": [
+        "2005",
+        "2009",
+        "2012",
+        "2015",
+        "2020"
+      ],
+      "correctAnswer": "2012"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi vitamin güneş ışığı yardımıyla vücut tarafından sentezlenebilir?",
+      "options": [
+        "A Vitamini",
+        "B12 Vitamini",
+        "C Vitamini",
+        "D Vitamini",
+        "K Vitamini"
+      ],
+      "correctAnswer": "D Vitamini"
+    },
+    {
+      "categoryId": 9,
+      "question": "Yeryüzündeki en yüksek aktif yanardağ olan Mauna Loa hangi adalar topluluğundadır?",
+      "options": [
+        "Japonya",
+        "Filipinler",
+        "Hawaii",
+        "Kanarya Adaları",
+        "Azorlar"
+      ],
+      "correctAnswer": "Hawaii"
+    },
+    {
+      "categoryId": 9,
+      "question": "Nobel Edebiyat Ödülü'nü reddeden tek yazar kimdir?",
+      "options": [
+        "George Orwell",
+        "Jean-Paul Sartre",
+        "Franz Kafka",
+        "Ernest Hemingway",
+        "Samuel Beckett"
+      ],
+      "correctAnswer": "Jean-Paul Sartre"
+    },
+    {
+      "categoryId": 9,
+      "question": "Altının kimyasal sembolü (Au), hangi dildeki 'Aurum' kelimesinden gelmektedir?",
+      "options": [
+        "Yunanca",
+        "Latince",
+        "Arapça",
+        "Farsça",
+        "Fransızca"
+      ],
+      "correctAnswer": "Latince"
+    },
+    {
+      "categoryId": 9,
+      "question": "Türkiye'nin en uzun kıyı şeridine sahip bölgesi hangisidir?",
+      "options": [
+        "Marmara Bölgesi",
+        "Karadeniz Bölgesi",
+        "Akdeniz Bölgesi",
+        "Ege Bölgesi",
+        "İç Anadolu Bölgesi"
+      ],
+      "correctAnswer": "Ege Bölgesi"
+    },
+    {
+      "categoryId": 9,
+      "question": "Satrançta bir piyon, rakibin son karesine ulaştığında hangi taşa dönüşemez?",
+      "options": [
+        "Vezir",
+        "Kale",
+        "Fil",
+        "At",
+        "Şah"
+      ],
+      "correctAnswer": "Şah"
+    },
+    {
+      "categoryId": 9,
+      "question": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü'nün kısaltması nedir?",
+      "options": [
+        "UNICEF",
+        "UNESCO",
+        "WHO",
+        "FAO",
+        "ILO"
+      ],
+      "correctAnswer": "UNESCO"
+    },
+    {
+      "categoryId": 9,
+      "question": "Tarihteki ilk yazılı barış antlaşması hangisidir?",
+      "options": [
+        "Kadeş Antlaşması",
+        "Versay Antlaşması",
+        "Mondros Ateşkesi",
+        "Lozan Antlaşması",
+        "Ankara Antlaşması"
+      ],
+      "correctAnswer": "Kadeş Antlaşması"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dünyanın en küçük okyanusu hangisidir?",
+      "options": [
+        "Pasifik",
+        "Atlantik",
+        "Hint",
+        "Arktik (Kuzey Buz Denizi)",
+        "Güney Okyanusu"
+      ],
+      "correctAnswer": "Arktik (Kuzey Buz Denizi)"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi organımız kandaki toksinleri süzerek vücudu temizleme görevini üstlenir?",
+      "options": [
+        "Akciğer",
+        "Kalp",
+        "Mide",
+        "Karaciğer",
+        "Pankreas"
+      ],
+      "correctAnswer": "Karaciğer"
+    },
+    {
+      "categoryId": 9,
+      "question": "İlk modern Olimpiyat Oyunları 1896'da hangi şehirde yapılmıştır?",
+      "options": [
+        "Paris",
+        "Roma",
+        "Atina",
+        "Londra",
+        "Berlin"
+      ],
+      "correctAnswer": "Atina"
+    },
+    {
+      "categoryId": 9,
+      "question": "Bilinen en eski tapınak merkezi olan ve Şanlıurfa'da bulunan yer neresidir?",
+      "options": [
+        "Efes",
+        "Çatalhöyük",
+        "Göbeklitepe",
+        "Hattuşaş",
+        "Zeugma"
+      ],
+      "correctAnswer": "Göbeklitepe"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi gezegen 'Akşam Yıldızı' veya 'Çoban Yıldızı' olarak da bilinir?",
+      "options": [
+        "Mars",
+        "Venüs",
+        "Jüpiter",
+        "Neptün",
+        "Uranüs"
+      ],
+      "correctAnswer": "Venüs"
+    },
+    {
+      "categoryId": 9,
+      "question": "Türk edebiyatında 'Şair-i Azam' unvanı kime aittir?",
+      "options": [
+        "Tevfik Fikret",
+        "Abdülhak Hamit Tarhan",
+        "Mehmet Akif Ersoy",
+        "Namık Kemal",
+        "Yahya Kemal Beyatlı"
+      ],
+      "correctAnswer": "Abdülhak Hamit Tarhan"
+    },
+    {
+      "categoryId": 9,
+      "question": "Sıvıların kaldırma kuvvetini bularak 'Buldum!' (Eureka!) diye bağıran Antik Yunan bilgini kimdir?",
+      "options": [
+        "Pisagor",
+        "Arşimet",
+        "Öklid",
+        "Aristo",
+        "Eflatun"
+      ],
+      "correctAnswer": "Arşimet"
+    },
+    {
+      "categoryId": 9,
+      "question": "Dünyanın en çok yağış alan yeri (Cherrapunji) hangi ülkededir?",
+      "options": [
+        "Brezilya",
+        "Hindistan",
+        "Endonezya",
+        "Tayland",
+        "Nijerya"
+      ],
+      "correctAnswer": "Hindistan"
+    },
+    {
+      "categoryId": 9,
+      "question": "Hangi hayvanın sütü pembe renklidir?",
+      "options": [
+        "Zürafa",
+        "Su Aygırı",
+        "Fil",
+        "Gergedan",
+        "Kutup Ayısı"
+      ],
+      "correctAnswer": "Su Aygırı"
+    },
+    {
+      "categoryId": 9,
+      "question": "İnsan beyninin iki lobunu birbirine bağlayan sinir ağına ne ad verilir?",
+      "options": [
+        "Serebellum",
+        "Korteks",
+        "Korpus Kallozum",
+        "Talamus",
+        "Hipokampus"
+      ],
+      "correctAnswer": "Korpus Kallozum"
+    },
+    {
+      "categoryId": 9,
+      "question": "İlk sesli sinema filmi olan 'Caz Şarkıcısı' (The Jazz Singer) hangi yılda yayınlanmıştır?",
+      "options": [
+        "1915",
+        "1920",
+        "1927",
+        "1935",
+        "1940"
+      ],
+      "correctAnswer": "1927"
+    },
+    {
+      "categoryId": 9,
+      "question": "Yunan mitolojisinde bakışlarıyla insanları taşa çeviren yılan saçlı kadın figürü kimdir?",
+      "options": [
+        "Athena",
+        "Hera",
+        "Medusa",
+        "Afrodit",
+        "Artemis"
+      ],
+      "correctAnswer": "Medusa"
+    }
+  ]
+}
